@@ -31,7 +31,7 @@ This tool allows students to simulate real exams, track their progress, and impr
 
 ---
 
-## 💻 Installation (Windows)
+## 💻 Installation (Windows & Linux )
 
 1. **Clone or download** the repository:
 ```bash
