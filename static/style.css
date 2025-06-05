@@ -1,0 +1,117 @@
+/* Estilo geral do corpo */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f9f9f9;
+    color: #222;
+    margin: 0;
+    padding: 0 20px 40px 20px;
+    line-height: 1.6;
+}
+
+/* Container principal para centralizar conteúdo */
+.container {
+    max-width: 900px;
+    margin: 40px auto;
+    background: white;
+    padding: 30px 40px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+/* Espaço para o logo */
+.header-logo {
+    height: 80px;
+    margin-bottom: 30px;
+    /* Inserir logo manualmente dentro deste bloco, ex:
+       <img src="logo.png" alt="Logo" style="height: 100%; object-fit: contain;">
+    */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 2px solid #0b2e66; /* linha azul escuro */
+}
+
+/* Títulos */
+h1, h2, h3 {
+    color: #0b2e66; /* azul escuro */
+    margin-top: 0;
+}
+
+/* Botões */
+button, input[type="submit"] {
+    background-color: #0b2e66;
+    color: white;
+    border: none;
+    padding: 10px 22px;
+    font-size: 16px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover, input[type="submit"]:hover {
+    background-color: #07306f;
+}
+
+/* Labels e inputs */
+label {
+    font-weight: 600;
+    color: #0b2e66;
+    display: block;
+    margin-bottom: 6px;
+}
+
+input[type="radio"] {
+    margin-right: 8px;
+}
+
+/* Separadores */
+hr {
+    border: none;
+    border-top: 1px solid #ddd;
+    margin: 30px 0;
+}
+
+/* Timer */
+#timer {
+    font-weight: 700;
+    color: #0b2e66;
+    font-size: 18px;
+    background: #e0e6f2;
+    padding: 8px 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(11, 46, 102, 0.4);
+    position: fixed;
+    top: 10px;
+    right: 20px;
+    z-index: 1002;
+}
+
+/* Resultado */
+.correct {
+    color: #0b2e66;
+    font-weight: bold;
+}
+
+.incorrect {
+    color: #cc2a2a;
+    font-weight: bold;
+}
+
+.option {
+    display: block;
+    margin-left: 20px;
+    margin-bottom: 4px;
+    color: #333;
+}
+
+/* Links */
+a {
+    color: #0b2e66;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+a:hover {
+    text-decoration: underline;
+}
