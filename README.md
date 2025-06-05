@@ -35,14 +35,14 @@ This tool allows students to simulate real exams, track their progress, and impr
 
 1. **Clone or download** the repository:
 ```bash
-git clone https://github.com/your-username/ecqb-ppl-trainer.git
-cd ecqb-ppl-trainer
+git clone https://github.com/JoseAbreu28/SkyExaminer.git
+cd SkyExaminer
 pip install -r requirements.txt
 ```
 
 2. **Run the app**:
 ```bash
-python main.py
+python app.py
 ```
 
 Make sure you have Python 3.x installed. No external dependencies are required unless GUI is implemented.
