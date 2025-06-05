@@ -36,6 +36,7 @@ This tool allows students to simulate real exams, track their progress, and impr
 ```bash
 git clone https://github.com/your-username/ecqb-ppl-trainer.git
 cd ecqb-ppl-trainer
+pip install -r requirements.txt
 ```
 
 2. **Run the app**:
