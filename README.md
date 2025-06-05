@@ -24,9 +24,10 @@ This tool allows students to simulate real exams, track their progress, and impr
 ## 📁 Folder Structure
 
 - `answer_history/` — stores per-subject logs of incorrect answers with counts
-- `questions/` — contains the ECQB question database in CSV format
-- `exam_results/` — stores results and scores of previous exams
-- `main.py` — main execution file (CLI or GUI depending on implementation)
+- `PPL(A)_AirAcademy/` — contains the ECQB question database in CSV format
+- `tmp/` — stores temporary exams
+- `PPL(A)/`  — contains the ECQB question database in PDF format
+- `app.py` — main execution 
 
 ---
 
