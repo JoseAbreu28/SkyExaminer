@@ -1,4 +1,4 @@
-# ECQB-PPL Exam Trainer
+# SkyExaminer
 
 A lightweight exam preparation tool for the **EASA PPL (Private Pilot Licence)** based on the official **AirAcademy ECQB-PPL** question database.
 
