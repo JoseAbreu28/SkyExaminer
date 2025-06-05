@@ -2,7 +2,9 @@
 
 A lightweight exam preparation tool for the **EASA PPL (Private Pilot Licence)** based on the official **AirAcademy ECQB-PPL** question database.
 
-This tool allows students to simulate real exams, track their progress, and improve their performance over time by reviewing past mistakes.
+This tool allows students to simulate real exams, track their progress, and improve their performance over time by reviewing past mistakes
+
+![Example](static/images/2025-06-05_12-31.png)
 
 ---
 
