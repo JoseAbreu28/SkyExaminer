@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Exam Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        .correct { color: green; font-weight: bold; }
+        .incorrect { color: red; font-weight: bold; }
+        .option { display: block; margin-left: 15px; }
+    </style>
+</head>
+<body>
+    <h1>Exam Result: {{ subject }}</h1>
+    <p>Score: {{ score }} / {{ total }}</p>
+    <p>Status: {% if passed %}✅ Passed{% else %}❌ Failed{% endif %}</p>
+    <hr>
+
+    {% for r in results %}
+        <div>
+            <p><strong>Question {{ loop.index }}:</strong> {{ r.question }}</p>
+            {% for option in r.options %}
+                {% if option == r.answer and option == r.correct %}
+                    <span class="option correct">✔ {{ option }}</span>
+                {% elif option == r.answer and option != r.correct %}
+                    <span class="option incorrect">✘ {{ option }}</span>
+                {% elif option == r.correct %}
+                    <span class="option correct">{{ option }}</span>
+                {% else %}
+                    <span class="option">{{ option }}</span>
+                {% endif %}
+            {% endfor %}
+        </div>
+        <hr>
+    {% endfor %}
+
+    <a href="/">Back</a>
+</body>
+</html>

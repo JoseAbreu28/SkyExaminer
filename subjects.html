@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Select Subject</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Select the subject for the exam</h1>
+    <form action="/exam" method="post">
+        <label for="subject">Subject:</label>
+        <select name="subject" id="subject" required>
+            {% for name in subjects.keys() %}
+            <option value="{{ name }}">{{ name }}</option>
+            {% endfor %}
+        </select>
+
+        <br><br>
+
+        <label for="mode">Mode:</label>
+        <select name="mode" id="mode" required>
+            <option value="exam">Exam (simulated)</option>
+            <option value="full">View all</option>
+            <option value="improve">Improve (based on errors)</option>
+        </select>
+
+        <br><br>
+
+        <button type="submit">Start</button>
+    </form>
+</body>
+</html>
