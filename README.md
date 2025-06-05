@@ -45,21 +45,10 @@ Make sure you have Python 3.x installed. No external dependencies are required u
 
 ---
 
-## 🧠 Future Improvements
-
-- Web interface for mobile/tablet access
-- Detailed stats dashboard
-- Question flagging and notes
-- Custom exam configuration
-
----
-
 ## 📜 License
 
 This project is intended for **personal educational use only**. The question content belongs to [AirAcademy](https://aircademy.com) and is subject to their licensing terms.
 
 ---
 
-## ✉️ Credits
 
-Developed for PPL students and hobbyist aviators who want to practice with high realism and track their weak areas efficiently.
