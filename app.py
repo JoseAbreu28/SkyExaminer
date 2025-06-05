@@ -44,46 +44,6 @@ def load_questions(filename, amount=None):
     return questions
 
 
-"""def log_answer(subject, question, correct, user_answer):
-    correct_flag = user_answer == correct
-    if correct_flag:
-        return  # Ignora se estiver certo
-
-    file_path = os.path.join(TRACK_FILE, f"{subject.replace(' ', '_')}.csv")
-
-    if not os.path.exists(file_path):
-        with open(file_path, 'w', newline='', encoding='utf-8') as f:
-            writer = csv.writer(f)
-            writer.writerow(["Question", "Correct", "Answered", "CorrectFlag", "Count"])
-
-    lines = []
-    found = False
-
-    with open(file_path, 'r', encoding='utf-8') as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            if row["Question"] == question:
-                row["Answered"] = user_answer or ""
-                row["CorrectFlag"] = "False"
-                row["Count"] = str(int(row["Count"]) + 1)
-                found = True
-            lines.append(row)
-
-    if not found:
-        lines.append({
-            "Question": question,
-            "Correct": correct,
-            "Answered": user_answer or "",
-            "CorrectFlag": "False",
-            "Count": "1"
-        })
-
-    with open(file_path, 'w', newline='', encoding='utf-8') as f:
-        writer = csv.DictWriter(f, fieldnames=["Question", "Correct", "Answered", "CorrectFlag", "Count"])
-        writer.writeheader()
-        writer.writerows(lines)
-
-"""
 def log_answer(subject, question, correct, user_answer):
     correct_flag = user_answer == correct
 
@@ -144,25 +104,39 @@ def exam():
     all_questions = load_questions(filename, None)
 
     if mode == "improve":
+        amount = 10  # fixo para improve
         track_path = os.path.join(TRACK_FILE, f"{subject_name.replace(' ', '_')}.csv")
 
-        if not os.path.exists(track_path):
-            selected_questions = random.sample(all_questions, amount)
-        else:
+        if os.path.exists(track_path):
             df = pd.read_csv(track_path)
-            df_errors = df[df['CorrectFlag'].astype(str).str.lower() == 'false']
+            df["CorrectFlag"] = df["CorrectFlag"].astype(str).str.lower()
+            df["Count"] = pd.to_numeric(df["Count"], errors="coerce").fillna(0).astype(int)
 
-            if df_errors.empty:
-                selected_questions = random.sample(all_questions, amount)
-            else:
-                grouped = df_errors.groupby("Question").agg({"Count": "sum"}).reset_index()
-                grouped = grouped.sort_values(by="Count", ascending=False)
-                top_error_questions = grouped["Question"].tolist()
-                selected_questions = [q for q in all_questions if q["text"] in top_error_questions][:amount]
+            # Erros primeiro
+            df_errors = df[df["CorrectFlag"] == "false"].sort_values(by="Count", ascending=False)
+            error_questions = df_errors["Question"].tolist()
 
-                if len(selected_questions) < amount:
-                    extra_questions = [q for q in all_questions if q not in selected_questions]
-                    selected_questions += random.sample(extra_questions, amount - len(selected_questions))
+            # Depois acertos com Count alto
+            df_corrects = df[df["CorrectFlag"] == "true"].sort_values(by="Count", ascending=False)
+            correct_questions = df_corrects["Question"].tolist()
+
+            # Combinar sem repetir
+            combined_questions = error_questions + [q for q in correct_questions if q not in error_questions]
+
+            selected_questions = []
+            for q_text in combined_questions:
+                match = next((q for q in all_questions if q["text"] == q_text), None)
+                if match and match not in selected_questions:
+                    selected_questions.append(match)
+                if len(selected_questions) >= amount:
+                    break
+
+            # Se ainda faltarem perguntas, preenche aleatoriamente
+            if len(selected_questions) < amount:
+                remaining = [q for q in all_questions if q not in selected_questions]
+                selected_questions += random.sample(remaining, min(amount - len(selected_questions), len(remaining)))
+        else:
+            selected_questions = random.sample(all_questions, amount)
 
     elif mode == "full":
         selected_questions = all_questions
@@ -289,4 +263,4 @@ def clear_tmp():
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=5000)
