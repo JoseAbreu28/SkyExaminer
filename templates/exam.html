@@ -5,6 +5,7 @@
     <title>Exam - {{ subject }}</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
     <style>
+        /* Timer */
         #timer {
             position: fixed;
             top: 10px;
@@ -15,64 +16,86 @@
             border-radius: 8px;
             font-weight: bold;
             box-shadow: 0 0 5px rgba(0,0,0,0.2);
-            z-index: 1002;
+            z-index: 1102;
         }
 
-        #openE6B {
+        /* Floating buttons container */
+        #floatingButtons {
             position: fixed;
             bottom: 20px;
             right: 20px;
-            background-color: #007bff;
-            color: white;
-            border: none;
-            border-radius: 50%;
+            z-index: 1100;
+            display: flex;
+            gap: 10px;
+        }
+
+        /* Floating buttons style */
+        #floatingButtons button {
             width: 50px;
             height: 50px;
+            border-radius: 50%;
+            border: none;
+            background-color: #007bff;
+            color: white;
             font-weight: bold;
             font-size: 16px;
             cursor: pointer;
-            z-index: 1000;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+            transition: background-color 0.3s ease;
+        }
+        #floatingButtons button:hover {
+            background-color: #0056b3;
         }
 
-        #e6bModal {
-            display: none;
+        /* Modal style */
+        .modal {
             position: fixed;
-            top: 50%;
+            top: 10%;
             left: 50%;
-            transform: translate(-50%, -50%);
-            background: white;
-            border: 2px solid #ccc;
-            border-radius: 8px;
+            transform: translateX(-50%);
             width: 90%;
             max-width: 900px;
             height: 600px;
+            background: white;
+            border: 2px solid #ccc;
+            border-radius: 8px;
             box-shadow: 0 0 15px rgba(0,0,0,0.3);
-            z-index: 1001;
-            cursor: move; /* opcional: visual feedback */
+            z-index: 1101;
+            display: none;
+            flex-direction: column;
+            cursor: default;
+            user-select: none;
         }
 
-
-        #e6bModal header {
+        .modal header {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            padding: 10px;
             background: #f0f0f0;
+            padding: 10px;
             border-bottom: 1px solid #ccc;
+            cursor: move; /* Indica que pode mover */
+            user-select: none;
         }
 
-        #e6bModal header h3 {
+        .modal header h3 {
             margin: 0;
+            font-size: 1.2em;
+            user-select: none;
         }
 
-        #closeE6B {
+        .modal header button {
             background: transparent;
             border: none;
-            font-size: 24px;
+            font-size: 28px;
             cursor: pointer;
             line-height: 1;
+            font-weight: bold;
+            color: #333;
+            user-select: none;
         }
 
+        /* Annex image */
         .annex-image {
             max-width: 400px;
             margin-top: 10px;
@@ -82,27 +105,23 @@
             cursor: pointer;
         }
 
-        /* Modal para imagem ampliada */
+        /* Image Modal */
         #imageModal {
             display: none;
             position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background-color: rgba(0, 0, 0, 0.8);
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            background-color: rgba(0,0,0,0.8);
             justify-content: center;
             align-items: center;
-            z-index: 1003;
+            z-index: 1200;
         }
-
         #imageModal img {
             max-width: 90%;
             max-height: 90%;
             border: 5px solid white;
             border-radius: 8px;
         }
-
         #closeImageModal {
             position: absolute;
             top: 20px;
@@ -110,6 +129,28 @@
             font-size: 30px;
             color: white;
             cursor: pointer;
+        }
+
+        /* Textarea inside Notes modal */
+        #notesArea {
+            flex-grow: 1;
+            width: 95%;
+            margin: 10px auto;
+            resize: none;
+            font-size: 16px;
+            font-family: monospace;
+            padding: 10px;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+        }
+
+        /* Canvas styling */
+        #sketchCanvas {
+            border: 1px solid #ccc;
+            margin: 10px auto;
+            display: block;
+            background: white;
+            flex-grow: 1;
         }
     </style>
 </head>
@@ -150,27 +191,74 @@
         <button type="submit">Submit Answers</button>
     </form>
 
-    {% if subject == "Navigation" %}
-    <button id="openE6B" title="Open E6B Calculator">E6B</button>
+    <!-- Floating buttons to open modals -->
+    <div id="floatingButtons">
+        {% if subject == "Navigation" %}
+            <button onclick="openModal('E6BModal')" title="E6B Calculator">E6B</button>
+        {% endif %}
+        <button onclick="openModal('CalcModal')" title="Calculator">🧮</button>
+        <button onclick="openModal('NotesModal')" title="Notes">📝</button>
+        <button onclick="openModal('SheetModal')" title="Cheatsheet">📄</button>
+        <button onclick="openModal('SketchModal')" title="Sketch Pad">✏️</button>
+    </div>
 
-    <div id="e6bModal" role="dialog" aria-modal="true" aria-labelledby="e6bTitle">
+    <!-- Modals -->
+
+    <!-- E6B Modal -->
+    <div id="E6BModal" class="modal" aria-modal="true" role="dialog" aria-labelledby="e6bTitle">
         <header>
             <h3 id="e6bTitle">E6B Digital Calculator</h3>
-            <button id="closeE6B" aria-label="Close E6B Calculator">&times;</button>
+            <button onclick="closeModal('E6BModal')" aria-label="Close E6B Calculator">&times;</button>
         </header>
         <iframe src="https://mediafiles.aero.und.edu/aero.und.edu/aviation/trainers/e6b/"
-                style="width: 100%; height: calc(100% - 50px); border: none;">
-        </iframe>
+                style="width:100%; height: 90%; border:none;"></iframe>
     </div>
-    {% endif %}
 
-    <!-- Modal de Imagem -->
-    <div id="imageModal">
-        <span id="closeImageModal">&times;</span>
-        <img id="modalImage" src="" alt="Full Image">
+    <!-- Calculator Modal -->
+    <div id="CalcModal" class="modal" aria-modal="true" role="dialog" aria-labelledby="calcTitle">
+        <header>
+            <h3 id="calcTitle">Calculator</h3>
+            <button onclick="closeModal('CalcModal')" aria-label="Close Calculator">&times;</button>
+        </header>
+        <!-- iframe para calculadora científica real -->
+        <iframe src="https://www.desmos.com/scientific" style="width:100%; height: 90%; border:none;"></iframe>
+    </div>
+
+    <!-- Notes Modal -->
+    <div id="NotesModal" class="modal" aria-modal="true" role="dialog" aria-labelledby="notesTitle" style="flex-direction: column;">
+        <header>
+            <h3 id="notesTitle">Notes</h3>
+            <button onclick="closeModal('NotesModal')" aria-label="Close Notes">&times;</button>
+        </header>
+        <textarea id="notesArea" placeholder="Write your notes here..."></textarea>
+    </div>
+
+    <!-- Cheatsheet Modal -->
+    <div id="SheetModal" class="modal" aria-modal="true" role="dialog" aria-labelledby="sheetTitle">
+        <header>
+            <h3 id="sheetTitle">Cheatsheet</h3>
+            <button onclick="closeModal('SheetModal')" aria-label="Close Cheatsheet">&times;</button>
+        </header>
+        <iframe src="/static/cheatsheet_{{ subject | lower }}.html" style="width:100%; height: 90%; border:none;"></iframe>
+    </div>
+
+    <!-- Sketch Pad Modal -->
+    <div id="SketchModal" class="modal" aria-modal="true" role="dialog" aria-labelledby="sketchTitle" style="flex-direction: column;">
+        <header>
+            <h3 id="sketchTitle">Sketch Pad</h3>
+            <button onclick="closeModal('SketchModal')" aria-label="Close Sketch Pad">&times;</button>
+        </header>
+        <canvas id="sketchCanvas" width="880" height="520"></canvas>
+    </div>
+
+    <!-- Modal para anexos ampliados -->
+    <div id="imageModal" style="display:none; justify-content:center; align-items:center; position:fixed; top:0; left:0; width:100%; height:100%; background: rgba(0,0,0,0.8); z-index:1200;">
+        <span id="closeImageModal" style="position:absolute; top:20px; right:30px; font-size:30px; color:white; cursor:pointer;">&times;</span>
+        <img id="modalImage" src="" alt="Full Image" style="max-width:90%; max-height:90%; border:5px solid white; border-radius:8px;">
     </div>
 
     <script>
+        // Timer countdown
         let timeLeft = {{ timer_minutes }} * 60;
         const timerElement = document.getElementById("timer");
 
@@ -182,7 +270,7 @@
             if (timeLeft <= 0) {
                 clearInterval(timerInterval);
                 timerElement.textContent = "Time's up!";
-                // document.querySelector("form").submit(); // optional auto-submit
+                // document.querySelector("form").submit(); // opcional auto-submit
             }
 
             timeLeft--;
@@ -191,23 +279,24 @@
         const timerInterval = setInterval(updateTimer, 1000);
         updateTimer();
 
-        {% if subject == "Navigation" %}
-        const openBtn = document.getElementById('openE6B');
-        const modal = document.getElementById('e6bModal');
-        const closeBtn = document.getElementById('closeE6B');
+        // Funções para abrir/fechar modais
+        function openModal(id) {
+            const modal = document.getElementById(id);
+            if (modal) {
+                modal.style.display = 'flex';
+                // Trazer para frente
+                modal.style.zIndex = 1101 + (++highestZIndex);
+            }
+        }
 
-        openBtn.addEventListener('click', () => {
-            modal.style.display = 'block';
-            openBtn.style.display = 'none';
-        });
+        function closeModal(id) {
+            const modal = document.getElementById(id);
+            if (modal) {
+                modal.style.display = 'none';
+            }
+        }
 
-        closeBtn.addEventListener('click', () => {
-            modal.style.display = 'none';
-            openBtn.style.display = 'block';
-        });
-        {% endif %}
-
-        // Modal da imagem
+        // Modal imagem ampliada para anexos
         document.querySelectorAll('.annex-image').forEach(img => {
             img.addEventListener('click', () => {
                 const modal = document.getElementById('imageModal');
@@ -221,10 +310,84 @@
             document.getElementById('imageModal').style.display = 'none';
         });
 
-        document.getElementById('imageModal').addEventListener('click', (e) => {
-            if (e.target.id === 'imageModal') {
-                e.currentTarget.style.display = 'none';
+        // Sketch pad - simples desenho no canvas
+        const canvas = document.getElementById('sketchCanvas');
+        const ctx = canvas.getContext('2d');
+        let drawing = false;
+
+        canvas.addEventListener('mousedown', e => {
+            drawing = true;
+            ctx.beginPath();
+            ctx.moveTo(e.offsetX, e.offsetY);
+        });
+
+        canvas.addEventListener('mousemove', e => {
+            if (drawing) {
+                ctx.lineTo(e.offsetX, e.offsetY);
+                ctx.stroke();
             }
+        });
+
+        canvas.addEventListener('mouseup', e => {
+            if (drawing) {
+                ctx.lineTo(e.offsetX, e.offsetY);
+                ctx.stroke();
+                ctx.closePath();
+                drawing = false;
+            }
+        });
+
+        canvas.addEventListener('mouseleave', () => {
+            if (drawing) {
+                ctx.closePath();
+                drawing = false;
+            }
+        });
+
+        // Código para permitir mover as janelas modais com drag-and-drop pelo header
+        let highestZIndex = 0;
+        document.querySelectorAll('.modal').forEach(modal => {
+            const header = modal.querySelector('header');
+
+            let isDragging = false;
+            let offsetX, offsetY;
+
+            header.addEventListener('mousedown', e => {
+                isDragging = true;
+                // calcula deslocamento entre o mouse e a posição do modal
+                const rect = modal.getBoundingClientRect();
+                offsetX = e.clientX - rect.left;
+                offsetY = e.clientY - rect.top;
+                // trazer modal para frente
+                highestZIndex++;
+                modal.style.zIndex = 1100 + highestZIndex;
+                document.body.style.userSelect = 'none'; // evita seleção indesejada
+            });
+
+            document.addEventListener('mouseup', e => {
+                isDragging = false;
+                document.body.style.userSelect = ''; // volta ao normal
+            });
+
+            document.addEventListener('mousemove', e => {
+                if (!isDragging) return;
+                let left = e.clientX - offsetX;
+                let top = e.clientY - offsetY;
+
+                // Limitar para não sair da tela
+                const maxLeft = window.innerWidth - modal.offsetWidth;
+                const maxTop = window.innerHeight - modal.offsetHeight;
+
+                if (left < 0) left = 0;
+                else if (left > maxLeft) left = maxLeft;
+
+                if (top < 0) top = 0;
+                else if (top > maxTop) top = maxTop;
+
+                modal.style.left = left + 'px';
+                modal.style.top = top + 'px';
+                modal.style.transform = 'none'; // remover translateX para permitir posicionamento absoluto
+            });
         });
     </script>
 </body>

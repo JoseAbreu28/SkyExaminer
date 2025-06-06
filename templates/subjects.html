@@ -28,5 +28,47 @@
 
         <button type="submit">Start</button>
     </form>
+
+    <!-- Estatísticas com gráfico -->
+<h2 style="text-align: center;">Exam Progress</h2>
+<div style="display: flex; justify-content: center;">
+    <table id="statsTable" style="border-collapse: collapse; text-align: center;">
+        <thead>
+            <tr>
+                <th>Subject</th>
+                <th>Correct</th>
+                <th>Total</th>
+                <th>Progress</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+</div>
+
+<script>
+    fetch("/exam_stats")
+        .then(response => response.json())
+        .then(data => {
+            const tbody = document.querySelector("#statsTable tbody");
+
+            data.stats.forEach(stat => {
+                const row = document.createElement("tr");
+
+                // Escolher cor baseada na percentagem
+                let color = "red";
+                if (stat.percentage >= 90) color = "green";
+                else if (stat.percentage >= 80) color = "orange";
+
+                row.innerHTML = `
+                    <td>${stat.subject}</td>
+                    <td>${stat.correct}</td>
+                    <td>${stat.total}</td>
+                    <td style="color:${color}; font-weight:bold">${stat.percentage}%</td>
+                `;
+                tbody.appendChild(row);
+            });
+        });
+</script>
+
 </body>
 </html>
