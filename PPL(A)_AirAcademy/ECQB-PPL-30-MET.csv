@@ -125,8 +125,8 @@ What information can be obtained from satellite images?;Temperature and dew poin
 What chart shows areas of precipitation?;GAFOR;Wind chart;Satellite picture;Radar picture;Radar picture;
 What information is NOT found on Low-Level Significant Weather Charts (LLSWC)?;Information about icing conditions;Radar echos of precipitation;Information about turbulence areas;Front lines and frontal displacements;Radar echos of precipitation;
 Measured pressure distribution in MSL and corresponding frontal systems are displayed by the...;prognostic chart.;Significant Weather Chart (SWC).;surface weather chart.;hypsometric chart.;surface weather chart.;
-"In a METAR, ""heavy rain"" is designated by the identifier...";RA.;#NOME?;SHRA.;#NOME?;#NOME?;
-"In a METAR, ""(moderate) showers of rain"" are designated by the identifier...";#NOME?;SHRA.;#NOME?;TS.;SHRA.;
+"In a METAR, ""heavy rain"" is designated by the identifier...";RA.;+SHRA.;SHRA.;+RA.;+RA.;
+"In a METAR, ""(moderate) showers of rain"" are designated by the identifier...";+RA.;SHRA.;+TSRA.;TS.;SHRA.;
 What information can be found in the ATIS, but not in a METAR?;Information about current weather, for example types of precipitation;Operational information such as runway in use and transition level;Information about mean wind speeds, maximum speeds in gusts if applicable;Approach information, such as ground visibility and cloud base;Operational information such as runway in use and transition level;
 Weather and operational information about the destination aerodrome can be obtained during the flight by...;VOLMET.;PIREP.;ATIS.;SIGMET.;ATIS.;
 SIGMET warnings are issued for...;specific routings.;airports.;FIRs / UIRs.;countries.;FIRs / UIRs.;
