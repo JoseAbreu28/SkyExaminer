@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, redirect, url_for
+from flask import Flask, render_template, request, redirect, url_for, jsonify
 import pandas as pd
 import random
 import os
@@ -262,5 +262,41 @@ def clear_tmp():
     return redirect('/')
 
 
+"""Teste->Estatisticas de exame"""
+def exam_stats():
+    history_dir = "answer_history"
+    stats = []
+
+    for filename in os.listdir(history_dir):
+        if filename.endswith(".csv"):
+            file_path = os.path.join(history_dir, filename)
+            try:
+                df = pd.read_csv(file_path)
+                if {"CorrectFlag"}.issubset(df.columns):
+                    total = len(df)
+                    correct = df[df["CorrectFlag"].astype(str).str.lower() == "true"].shape[0]
+
+                    percentage = round((correct / total) * 100, 1) if total > 0 else 0
+
+                    subject = filename.replace(".csv", "").replace("_", " ")
+                    stats.append({
+                        "subject": subject,
+                        "correct": correct,
+                        "total": total,
+                        "percentage": percentage
+                    })
+            except Exception as e:
+                print(f"Erro ao ler {filename}: {e}")
+
+    return stats
+
+
+@app.route("/exam_stats")
+def exam_stats_route():
+    return jsonify({"stats": exam_stats()})
+
+
+"""Teste->Estatisticas de exame"""
+
 if __name__ == "__main__":
-    app.run(host='127.0.0.1', port=5000)
+    app.run(host='0.0.0.0', port=5000)
