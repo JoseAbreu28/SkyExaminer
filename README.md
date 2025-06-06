@@ -21,6 +21,24 @@ This tool allows students to simulate real exams, track their progress, and impr
 
 ---
 
+## 🆕 Recent Updates
+
+### New Features:
+- 📈 In the **/** dashboard, a new chart now shows the percentage of fully completed answers (available only after completing the full exam for all subjects).
+- 📝 In **Exam Simulation** mode, several new modal features have been added, including:
+  - A calculator
+  - Notes
+  - A sketchpad
+  - Cheat sheets
+- 📂 The **Cheat Sheets** feature supports `.html` files, which must be created by the user or will be provided in future updates.
+
+![Example](static/images/print1.png)
+
+![Example](static/images/print2.png)
+
+---
+
+
 ## 📁 Folder Structure
 
 - `answer_history/` — stores per-subject logs of incorrect answers with counts
