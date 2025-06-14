@@ -1,0 +1,66 @@
+Question,Correct,Answered,CorrectFlag,Count
+HPL-001 - The majority of aviation accidents are caused by...,human failure.,,False,0
+"HPL-002 - The ""swiss cheese model"" can be used to explain the...",error chain.,,False,0
+HPL-003 - What is the percentage of oxygen in the atmosphere at 6000 ft?,21 %,,False,0
+HPL-004 - What is the percentage of nitrogen in the atmosphere?,78 %,,False,0
+HPL-005 - At which altitude is the atmospheric pressure approximately half the MSL value (1013 hPa)?,18000 ft,,False,0
+"HPL-006 - Air consists of oxygen, nitrogen and other gases.
+What is the approximate percentage of other gases?",1%,,False,0
+HPL-007 - Carbon monoxide poisoning can be caused by...,smoking.,,False,0
+"HPL-008 - What does the term ""Red-out"" mean?",Red vision during negative g-loads,,False,0
+HPL-009 - Carbon monoxide poisoning can be caused by...,cracks in the heat exchanger.,,False,0
+HPL-010 - Which of the following is NOT a symptom of hyperventilation?,Cyanose,,False,0
+HPL-011 - Which of the following symptoms may indicate hypoxia?,Blue discolouration of lips and fingernails,,False,0
+HPL-012 - Which of the human senses is most influenced by hypoxia?,The visual perception (vision),,False,0
+HPL-013 - From which altitude on does the body usually react to the decreasing atmospheric pressure?,7000 feet,,False,0
+HPL-014 - Which altitude marks the lower limit where the body is unable to completely compensate the effects of the low atmospheric pressure?,12000 feet,,False,0
+HPL-015 - What is the function of the red blood cells (erythrocytes)?,Oxygen transport,,False,0
+HPL-016 - Which of the following is responsible for the blood coagulation?,Blood plates (thrombocytes),,False,0
+HPL-017 - What is the function of the white blood cells (leucocytes)?,Immune defense,,False,0
+HPL-018 - What is the function of the blood platelets (thrombocytes)?,Blood coagulation,,False,0
+HPL-019 - Which of the following is NOT a risk factor for hypoxia?,Diving,,False,0
+HPL-020 - Anemic hypoxia can be caused by...,carbon monoxide poisoning.,,False,0
+HPL-021 - What is an appropriate reaction when a passenger during cruise flight suddenly feels uncomfortable?,Adjust cabin temperature and prevent excessive bank,,False,0
+HPL-022 - What is the correct term for an involuntary and stereotypical reaction of an organism to the stimulation of a receptor?,Reflex,,False,0
+"HPL-023 - What is the correct term for the system which, among others, controls breathing,
+digestion, and heart frequency?",Autonomic nervous system,,False,0
+HPL-024 - What is the parallax error?,Wrong interpretation of instruments caused by the angle of vision,,False,0
+HPL-025 - Which characteristic is important when choosing sunglasses used by pilots?,Non-polarised,,False,0
+HPL-026 - Which part of the visual system is responsible for colour vision?,Cones,,False,0
+HPL-027 - The connection between middle ear and nose and throat region is called...,eustachian tube.,,False,0
+HPL-028 - In which situation is it NOT possible to achieve a pressure compensation between the middle ear and the environment?,The eustachian tube is blocked,,False,0
+HPL-029 - Wings level after a longer period of turning can lead to the impression of...,turning into the opposite direction.,,False,0
+HPL-030 - Which of the following options does NOT stimulate motion sickness (disorientation)?,Non-accelerated straight and level flight,,False,0
+HPL-031 - An acceleration during a straight horizontal flight can lead to the illusion of...,a climb.,,False,0
+HPL-032 - A deceleration during a straight horizontal flight can lead to the illusion of...,a descent.,,False,0
+HPL-033 - Which optical illusion might be caused by a runway with an upslope during the approach?,The pilot has the feeling that the approach is too high and therefore descends below the regular glide slope,,False,0
+HPL-034 - What impression may be caused when approaching a runway with an upslope?,An overshoot,,False,0
+HPL-035 - The occurrence of a vertigo is most likely when moving the head...,during a turn.,,False,0
+HPL-036 - A Grey-out is the result of...,positive g-forces.,,False,0
+HPL-037 - Visual illusions are mostly caused by...,misinterpretation of the brain.,,False,0
+HPL-038 - The average decrease of blood alcohol level for an adult in one hour is approximately...,0.01 percent.,,False,0
+HPL-039 - Which answer states a risk factor for diabetes?,Overweight,,False,0
+HPL-040 - A risk factor for decompression sickness is...,scuba diving prior to flight.,,False,0
+HPL-041 - Which statement is correct with regard to the short-term memory?,It can store 7 (±2) items for 10 to 20 seconds,,False,0
+HPL-042 - For what approximate time period can the short-time memory store information?,10 to 20 seconds,,False,0
+HPL-043 - What is a latent error?,An error which remains undetected in the system for a long time,,False,0
+"HPL-044 - What does the term ""confirmation bias"" mean?",The preference to find arguments to prove the own mental model,,False,0
+HPL-045 - The ongoing process to monitor the current flight situation is called...,situational awareness.,,False,0
+"HPL-046 - Regarding the communication model, how can the use of the same code during radio
+communication be ensured?",By the use of radio phraseology,,False,0
+HPL-047 - In what different ways can a risk be handled appropriately?,"Avoid, reduce, transfer, accept",,False,0
+HPL-048 - Under which circumstances is it more likely to accept higher risks?,Due to group-dynamic effects,,False,0
+"HPL-049 - What is the meaning of ""risky shift""?",The tendency to accept higher risks in groups,,False,0
+HPL-050 - Which dangerous attitudes are often combined?,Macho and invulnerability,,False,0
+HPL-051 - What is an indication for a macho attitude?,Risky flight maneuvers to impress spectators on ground,,False,0
+HPL-052 - Which factor can lead to human error?,The bias to see what we expect to see,,False,0
+HPL-053 - What is the best combination of traits with respect to the individual attitude and behaviour for a pilot?,Extroverted - stable,,False,0
+HPL-054 - Complacency is a risk due to...,increased cockpit automation.,,False,0
+HPL-055 - The ideal level of arousal is at which point in the diagram?,Point B,,False,0
+HPL-056 - At which point in the diagram will a pilot find himself to be overstrained?,Point D,,False,0
+"HPL-057 - Which of the following qualities are influenced by stress?
+1. Attention
+2. Concentration
+3. Responsiveness
+4. Memory","1, 2, 3, 4",,False,0
+HPL-058 - Which answer is correct concerning stress?,Stress can occur if there seems to be no solution for a given problem,,False,0

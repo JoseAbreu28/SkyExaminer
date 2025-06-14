@@ -1,0 +1,129 @@
+Question,Correct,Answered,CorrectFlag,Count
+AGK-001 - The thickness of the wing is defined as the distance between the lower and the upper side of the wing at the...,thickest part of the wing.,,False,0
+AGK-002 - How is referred to a tubular steel construction with a non self-supporting skin?,Grid construction,,False,0
+AGK-003 - Primary fuselage structures of wood or metal planes are usually made up by what components?,Frames and stringer,,False,0
+AGK-004 - Which wing configuration is shown in the attachment? See figure (AGK-002),Strut-braced high wing,,False,0
+AGK-005 - A construction made of frames and stringer with a supporting skin is called...,Semi-monocoque construction.,,False,0
+AGK-006 - Which tail assembly is shown in the attachment? See figure (AGK-003),T-tail,,False,0
+AGK-007 - What are the major components of an aircraft's tail?,Horizontal tail and vertical tail,,False,0
+AGK-008 - The sandwich structure consists of two...,thin layers and a light core material.,,False,0
+AGK-009 - Which constructional elements give the wing its profile shape?,Rips,,False,0
+"AGK-010 - The load factor ""n"" describes the relationship between...",lift and weight.,,False,0
+AGK-011 - Which are the advantages of sandwich structures?,"Low weight, high stiffness, high stability, and high strength",,False,0
+AGK-012 - Which of the stated materials shows the highest strength?,Carbon fiber re-inforced plastic,,False,0
+AGK-013 - What needs to be considered if permissible limitations were exceeded?,The helicopter must be inspected by a qualified engineer before the next flight,,False,0
+AGK-014 - Reasons for dents in the helicopter structure are...,hard landing or excessive stress.,,False,0
+AGK-015 - What kind of hydraulic oil is used in aeroplane systems today?,Synthetic oil,,False,0
+AGK-016 - Number 1 on the gear designates the... See figure (AGK-005),fork.,,False,0
+AGK-017 - The fuselage structure may be damaged by...,exceeding the manoeuvering speed in heavy gusts.,,False,0
+AGK-018 - Number 2 on the gear designates the... See figure (AGK-005),movable inner cylinder.,,False,0
+AGK-019 - How is the nose or tail wheel usually controlled on small aircraft and motor gliders?,By the pedals,,False,0
+AGK-020 - Where is the brake system installed to slow the aircraft on ground?,Only on the main gear,,False,0
+AGK-021 - What kind of control surface is connected with the nose wheel?,Rudder,,False,0
+AGK-022 - What is checked by the marking in the attachment? See figure (AGK-006),The correct postion of the tire relative to the rim,,False,0
+AGK-023 - About how many axes does an aircraft move and how are these axes called?,"3. vertical axis, lateral axis, longitudinal axis",,False,0
+AGK-024 - A movement around the longitudinal axis is primarily initiated by the...,ailerons.,,False,0
+AGK-025 - How are the flight controls on a small single-engine piston aircraft normally controlled and actuated?,Manually through rods and control cables,,False,0
+AGK-026 - What are the primary and the secondary effects of a rudder input to the left?,"Primary: yaw to the left, Secondary: roll to the left",,False,0
+AGK-027 - What is the effect of pulling the control yoke or stick backwards?,"The aircraft's tail will produce an increased downward force, causing the aircraft's nose to rise",,False,0
+AGK-028 - What happens to a helicopter during cruise when the stick is moved forward without other corrections?,The speed increases and the sink rate increases,,False,0
+AGK-029 - Which of the following options states all primary flight controls of an aircraft?,"Elevator, rudder, aileron",,False,0
+AGK-030 - What is the purpose of the secondary flight controls?,To improve the performance characteristics of an aircraft and relieve the pilot of excessive control forces,,False,0
+AGK-031 - What is the purpose of a ground adjustable trim tab?,It is a non-movable metal tab on a flight control which is adjusted on the ground to optimize the inflight characteristics of an aircraft,,False,0
+AGK-032 - The trim wheel or lever in the cockpit is moved aft by the pilot. What effect does this action have on the trim tab and on the elevator?,"The trim tab moves down, the elevator moves up",,False,0
+"AGK-033 - When trimming an aircraft nose up, in which direction does the trim tab move?",It moves down,,False,0
+AGK-034 - How does a balance tab move in relation to the flight control surface that it is coupled with?,In the opposite direction,,False,0
+AGK-035 - The trim is used to...,adapt the control force.,,False,0
+AGK-036 - Which of the following are an aircraft's secondary flight controls?,"Wing flaps, leading edge devices, spoilers or speedbrakes, trim systems",,False,0
+AGK-037 - What has to be considered during refueling?,"No open fires, obey smoking ban and apply ground cables",,False,0
+AGK-038 - The primer is...,an auxiliary pump in the fuel system to facilitate engine starting.,,False,0
+AGK-039 - What is the purpose of the tank ventilation?,To prevent underpressure caused by fuel consumption,,False,0
+"AGK-040 - An aeroplane's current supply is carried out by the: 1. Battery, 2. Generator, 3. Relay, 4. Circuit breaker",1 and 2,,False,0
+AGK-041 - What is the unit for voltage?,Volt,,False,0
+AGK-042 - What is the unit for electrical power?,Watt,,False,0
+AGK-043 - What is the reason for static dischargers on aircraft?,To discharge static charging during flight,,False,0
+AGK-044 - What must be considered if the alternator fails in a helicopter?,No change as long as the battery provides enough power,,False,0
+"AGK-045 - When using direct current, electrically driven flight instruments are marked with...",DC.,,False,0
+AGK-046 - What devices can be affected by a failure of the electrical system in a helicopter?,"Radio equipment, navigation equipment and gyros",,False,0
+AGK-047 - Which cylinder arragement is commonly used on small aircrafts and motor gliders?,Horizontally opposed engine,,False,0
+AGK-048 - Which part of the cycle of a four-stroke Otto engine can be seen in the attachment? See figure (AGK-007),First stroke - induction,,False,0
+AGK-049 - Which part of the cycle of a four-stroke Otto engine can be seen in the attachment? See figure (AGK-008),Second stroke - compression,,False,0
+AGK-050 - What is likely to be the cause if the engine runs unusually rough while checking the magnetos?,Sparking plug is defective,,False,0
+AGK-051 - The highest absorbtion of humidity in fuel can be observed in which situation?,Almost empty tanks,,False,0
+AGK-052 - Where does the condensation water converge in the tank?,At the lowest position,,False,0
+AGK-053 - What does the octane rating or fuel grade describe?,Anti-knock rating,,False,0
+AGK-054 - Which colour does Avgas 100 LL have?,Blue,,False,0
+AGK-055 - What is the direct influence by switching on the carburettor heating on fixed propeller engines during engine run-up?,RPM decreases,,False,0
+AGK-056 - What is the major task of a carburettor?,To produce an ignitable air/fuel mixture,,False,0
+AGK-057 - In which phase of flight must the carburettor heating be switched off although carburettor icing might be expected?,During take-off,,False,0
+AGK-058 - In which outside air temperature is icing most likely?,Between -5° C and +20° C,,False,0
+AGK-059 - What is the task of cooling fins on air-cooled engine cylinders?,Quick heat transfer to the surrounding air flow by expanding the surface,,False,0
+AGK-060 - Cylinder head temperature indication relates to...,the critical cylinder.,,False,0
+AGK-061 - What happens during oil filter clocking?,"A bypass valve opens thus enabling the circulation to continue, debris will not be filtered",,False,0
+AGK-062 - How should an Otto engine be shut down?,By completely leaning the mixture,,False,0
+AGK-063 - Piston engines of helicopters have...,two independent ignition systems.,,False,0
+AGK-064 - How do you call fuel mixtures with a high amount of fuel?,Rich,,False,0
+AGK-065 - The angle indicated by arrow number 1 shows the propeller's... See figure (AGK-011),angle of incidence.,,False,0
+"AGK-066 - How should a power increase be executed on a constant-speed propeller, provided that no other procedure is described in the flight manual?","1) Increase RPM, 2) Increase manifold pressure",,False,0
+"AGK-067 - How should a power decrease be executed on a constant-speed propeller, provided that no other procedure is described in the flight manual?","1) Decrease manifold pressure, 2) Decrease RPM",,False,0
+"AGK-068 - With increasing altitude and unchanged mixture setting, the air/fuel mixture...",becomes richer.,,False,0
+"AGK-069 - With increasing altitude, the power of a carburettor engine...",decreases.,,False,0
+AGK-070 - During ignition check the ignition is switched to OFF for a short moment and subsequently back to BOTH. What happens to the RPM if the ignition system is properly grounded?,The RPM decreases once switched to OFF and resumes the previous value when switched back to BOTH,,False,0
+AGK-071 - Which gauges involve a measurement of temperature?,"Engine lubricant, engine cooling fluid, cylinder head, exhaust gas, outside air, cabin air",,False,0
+AGK-072 - Fuel quantity in small aircraft is most commonly measured through a level sensor. The European Certification Specifications CS 23 require that...,"a fuel quantity indicator must be available for each tank and the indicator must be calibrated to read ""zero"" during level flight when the quantity of fuel remaining in the tank is equal to the unusable fuel supply.",,False,0
+AGK-073 - Which of the instruments listed below obtain their readings through pressure measurement?,"Oil pressure gauge, fuel pressure gauge, manifold pressure gauge, altimeter, vertical speed indicator, airspeed indicator, suction gauge",,False,0
+AGK-074 - The Pitot / static system is required to...,measure total and static air pressure.,,False,0
+AGK-075 - Which pressure is sensed by the Pitot tube?,Total air pressure,,False,0
+AGK-076 - QFE is the...,"barometric pressure at a reference datum, typically the runway threshold of an airfield.",,False,0
+AGK-077 - QNE is the...,altitude above the reference pressure level 1013.25 hPa.,,False,0
+AGK-078 - Which is the purpose of the altimeter subscale?,"To reference the altimeter reading to a predetermined level such as mean sea level, aerodrome level or pressure level 1013.25 hPa",,False,0
+AGK-079 - In which way may an altimeter subscale which is set to an incorrect QNH lead to an incorrect altimeter reading?,"If the subscale is set to a higher than actual pressure, the indication is too high. This may lead to much closer proximity to the ground than intended",,False,0
+AGK-080 - Lower-than-standard temperature may lead to...,an altitude indication which is too high.,,False,0
+AGK-081 - A flight level is a...,pressure altitude.,,False,0
+AGK-082 - A true altitude is...,an altitude above mean sea level corrected for non-standard temperature.,,False,0
+AGK-083 - During a flight in colder-than-ISA air the indicated altitude is...,higher than the true altitude.,,False,0
+"AGK-084 - During a flight in an air mass with a temperature equal to ISA and the QNH set correctly, the indicated altitude is...",equal to the true altitude.,,False,0
+AGK-085 - Which instrument can be affected by the hysteresis error?,Altimeter,,False,0
+AGK-086 - The measurement of altitude is based on the change of the...,static pressure.,,False,0
+AGK-087 - Which of the following options states the working principle of a vertical speed indicator?,Measuring the present static air pressure and comparing it to the static air pressure inside a reservoir,,False,0
+AGK-088 - The vertical speed indicator measures the difference of pressure between...,the present static pressure and the static pressure of a previous moment.,,False,0
+AGK-089 - Calibrated airspeed (CAS) equals...,indicated airspeed (IAS) corrected for instrument and position error.,,False,0
+"AGK-090 - At higher altitudes, true airspeed (TAS) tends to be higher than calibrated airspeed (CAS). A rough estimate of the TAS can be obtained by...",adding 2 % of the CAS for every 1000 ft altitude.,,False,0
+"AGK-091 - An aircraft cruises on a heading of 180° with a true airspeed of 100 kt. The wind comes from 180° with 30 kt. Neglecting instrument and position errors, which will be the approximate reading of the airspeed indicator?",100 kt,,False,0
+AGK-092 - Which of the following factors could cause an erroneous airspeed indication?,The aircraft is covered with adhesive foils,,False,0
+AGK-093 - Which of the following states the working principle of an airspeed indicator?,Total air pressure is measured and compared against static air pressure.,,False,0
+AGK-094 - What values are usually marked with a red line on instrument displays?,Operational limits,,False,0
+AGK-095 - What is necessary for the determination of speed (IAS) by the airspeed indicator?,The difference betweeen the total pressure and the static presssure,,False,0
+AGK-096 - What is the meaning of the white arc on the airspeed indicator?,Speed range for extended flaps,,False,0
+AGK-097 - What is the meaning of the red range on the airspeed indicator?,Speed which must not be exceeded regardless of circumstances,,False,0
+AGK-098 - The compass error caused by the aircraft's magnetic field is called...,deviation.,,False,0
+AGK-099 - The indication of a magnetic compass deviates from magnetic north direction due to what errors?,"Deviation, turning and acceleration errors",,False,0
+AGK-100 - Which of the mentioned cockpit instruments is connected to the pitot tube?,Airspeed indicator,,False,0
+AGK-101 - Which cockpit instruments are connected to the static port?,"Altimeter, vertical speed indicator, airspeed indicator",,False,0
+AGK-102 - An aircraft in the northern hemisphere intends to turn on the shortest way from a heading of 270° to a heading of 360°. At approximately which indication of the magnetic compass should the turn be terminated?,330°,,False,0
+AGK-103 - An aircraft in the northern hemisphere intends to turn on the shortest way from a heading of 360° to a heading of 270°. At approximately which indication of the magnetic compass should the turn be terminated?,270°,,False,0
+"AGK-104 - The term ""static pressure"" is defined as pressure...",of undisturbed airflow.,,False,0
+AGK-105 - An aircraft in the northern hemisphere intends to turn on the shortest way from a heading of 030° to a heading of 180°. At approximately which indicated magnetic heading should the turn be terminated?,210°.,,False,0
+AGK-106 - What does the dynamic pressure depend directly on?,Air density and airflow speed squared,,False,0
+AGK-107 - What is a cause for the dip error on the direct-reading compass?,Inclination of earth's magnetic field lines,,False,0
+AGK-108 - What behaviour is shown by a rotating gyro in space?,It tends to maintain its position in space,,False,0
+AGK-109 - A gyro which is rotating in space responds to forces being applied to it by an evasive movement...,at an angle of 90° to the force being applied.,,False,0
+AGK-110 - The bank angle of a 2-minutes circle depends on the...,TAS.,,False,0
+AGK-111 - A turn and bank (or turn and slip) coordinator provides information regarding...,"the rate of turn and coordination, i.e. slip or skid, of the turn.",,False,0
+AGK-112 - The airspeed indicator is unservicable. The airplane may only be operated...,when the airspeed indicator is fully functional again.,,False,0
+"AGK-113 - Which light colour advises the pilot to the condition ""corrective action may be required in the future""?",Amber (orange),,False,0
+AGK-114 - The Caution Area is marked on an airspeed indicator by what color?,Yellow,,False,0
+AGK-115 - An attitude director indicator (ADI) combines the information provided by...,the attitude indicator and the flight director.,,False,0
+AGK-116 - What does the abbreviation HSI stand for?,Horizontal Situation Indicator,,False,0
+AGK-117 - A horizontal situation indicator (HSI) combines the information provided by...,the directional gyro and the VHF navigation receiver.,,False,0
+"AGK-118 - What difference in altitude is shown by an altimeter, if the reference pressure scale setting is changed from 1000 hPa to 1010 hPa?",80 m more than before,,False,0
+AGK-119 - When is it necessary to adjust the pressure in the reference scale of an alitimeter?,Before every flight and during cross country flights,,False,0
+AGK-120 - The altimeter's reference scale is set to airfield pressure (QFE). What indication is shown during the flight?,Height above airfield,,False,0
+AGK-121 - A vertical speed indicator connected to a too big equalizing tank results in...,indication too high,,False,0
+AGK-122 - A vertical speed indicator measures the difference between...,instantaneous static pressure and previous static pressure.,,False,0
+"AGK-123 - The term ""inclination"" is defined as...",angle between earth's magnetic field lines and horizontal plane.,,False,0
+AGK-124 - What does the slip indicator show?,Apparent vertical,,False,0
+AGK-125 - The slip indicator's ball (apparent vertical) has moved to the right during a right turn. By what actions may the ball led back to middle position?,"Reduce bank, increase rate of turn",,False,0
+AGK-126 - What is the purpose of winglets?,Reduction of induced drag.,,False,0
+AGK-127 - What engines are commonly used with Touring Motor Gliders (TMG)?,"4 Cylinder, 4 stroke",,False,0
+AGK-128 - What is the purpose of engine oil in piston engine?,"Cooling, lubrication of the engine and disposal of fine abrasion.",,False,0

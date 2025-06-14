@@ -1,0 +1,105 @@
+Question,Correct,Answered,CorrectFlag,Count
+"ALW-001 - Which of the following documents have to be on board for an international flight?
+a) Certificate of aircraft registration
+b) Certificate of airworthiness
+c) Airworthiness review certificate
+d) EASA Form-1
+e) Airplane logbook
+f) Appropriate papers for every crew member
+g) Technical logbook","a, b, c, e, f",,False,0
+ALW-002 - Which area could be crossed with certain restrictions?,Restricted area,,False,0
+ALW-003 - Where can the type of restriction for a restricted airspace be found?,AIP,,False,0
+"ALW-004 - What is the status of the rules and procedures created by the EASA? (e.g. Part-SFCL, Part-MED)",They are part of the EU regulation and legally binding to all EU member states,,False,0
+"ALW-005 - What is the validity of the ""Certificate of Airworthiness""?",Unlimited,,False,0
+"ALW-006 - What is the meaning of the abbreviation ""ARC""?",Airworthiness Review Certificate,,False,0
+"ALW-007 - The ""Certificate of Airworthiness"" is issued by the state...",in which the aircraft is registered.,,False,0
+ALW-008 - A pilot license issued in accordance with ICAO Annex 1 is valid in...,all ICAO countries.,,False,0
+ALW-009 - What is the subject of ICAO Annex 1?,Flight crew licensing,,False,0
+ALW-010 - What is the period of validity of a private pilot license (PPL)?,Unlimited,,False,0
+ALW-011 - What is the minimum age to obtain a private pilot license?,17 years,,False,0
+ALW-012 - What are the minimum requirements among others to acquire a rating for VFR night flights?,"At least 5 additional flight hours at night, three of them with a flight instructor with at least 1 hour cross-country flight plus 5 solo take-offs and full-stop landings",,False,0
+ALW-013 - The validity of a medical examination certificate class 2 for a 62 years old pilot is...,12 Months.,,False,0
+ALW-014 - In which way is a SEP (land) rating renewed if you do not meet the required flight time?,A proficiency check with an examiner,,False,0
+ALW-015 - The possession of a european PPL(A) entitles the holder to...,act as PIC on non-commercial flights without compensation as well as to receive compensation as a flight instrucor.,,False,0
+ALW-016 - What is the minimum age to start a private pilot training at a flight school?,16 years,,False,0
+"ALW-017 - What is the meaning of the abbreviation ""SERA""?",Standardized European Rules of the Air,,False,0
+"ALW-018 - What is the meaning of the abbreviation ""TRA""?",Temporary Reserved Airspace,,False,0
+ALW-019 - What has to be considered when entering an RMZ?,To permanently monitor the radio and if possible to establish radio contact,,False,0
+ALW-020 - What condition has to be met during a Special VFR flight?,Visual reference to the terrain,,False,0
+ALW-021 - What has to be done before entering a TMZ?,Switch on the transponder and activate mode A and C or mode S,,False,0
+"ALW-022 - What is the meaning of an area marked as ""TMZ""?",Transponder Mandatory Zone,,False,0
+"ALW-023 - What is the meaning of the abbreviation ""IFR""?",Instrument Flight Rules,,False,0
+"ALW-024 - A flight is called a ""visual flight"", if the...",flight is conducted under visual flight rules.,,False,0
+"ALW-025 - What is the meaning of the abbreviation ""VMC""?",Visual meteorological conditions,,False,0
+ALW-026 - Two engine-driven aircraft are flying on crossing courses at the same altitude. Which one has to divert?,Both have to divert to the right,,False,0
+ALW-027 - Two aeroplanes are flying on crossing tracks. Which one has to divert?,The aircraft which flies from right to left has the right of priority,,False,0
+"ALW-028 - In airspace ""D"" a Boeing 737 and a Cessna 152 are flying on crossing courses. Which aeroplane has to divert?","The aeroplane flying from right to left has priority, the other one has to divert",,False,0
+ALW-029 - Which of the following options is NOT a sufficient reason to fly below the required minimum height?,Bad weather conditions in the vicinity of an aerodrome,,False,0
+ALW-030 - A single-engine piston and a turboprop aeroplane are approaching each other opposite at the same altitude. Which aeroplane has to change its track to avoid a collision?,Both aircraft have to alter their tracks to the right,,False,0
+"ALW-031 - Which distances to clouds have to be maintained during a VFR flight in airpaces C, D and E?","1500 m horizontally, 1000 ft vertically",,False,0
+ALW-032 - The minimum flight visibility at 5000 ft MSL in airspace B for VFR flights is...,5000 m.,,False,0
+"ALW-033 - What is the minimum flight visibility in airspace ""C"" for an aircraft operating under VFR at 5000 ft MSL?",5000 m,,False,0
+"ALW-034 - What is the minimum flight visibility in airspace ""E"" for an aircraft operating under VFR at FL75?",5000 m,,False,0
+"ALW-035 - What is the minimum flight visibility in airspace ""C"" for an aircraft operating under VFR at FL110?",8000 m,,False,0
+"ALW-036 - What is the minimum flight visibility in airspace ""C"" for an aircraft operating under VFR at FL125?",8000 m,,False,0
+"ALW-037 - What are the minimum distances to clouds for a VFR flight in airspace ""B""?","Horizontally 1.500 m, vertically 300 m",,False,0
+"ALW-038 - What is the minimum flight visibility in airspace ""C"" below FL 100 for an aircraft operating under VFR?",5 km,,False,0
+"ALW-039 - What is the minimum flight visibility in airspace ""C"" at and above FL 100 for an aircraft operating under VFR?",8 km,,False,0
+"ALW-040 - The term ""ceiling"" is defined as the...",height of the base of the lowest layer of clouds covering more than half of the sky below 20000 ft.,,False,0
+"ALW-041 - Being intercepted by a military aircraft at daytime, what is the meaning of the following signal: Alternating movement of the ailerons, normally left of the intercepted aircraft, followed by a smooth turn to the left?",Follow me,,False,0
+"ALW-042 - Being intercepted by a military aircraft at daytime, what is the meaning of the following signal: A sudden heading change of 90 degrees or more and a pull-up of the aircraft without crossing the track of the intercepted aircraft?",You may continue your flight,,False,0
+ALW-043 - The altimeter is switched from local QNH to 1013.25 hPa...,when climbing above the transition altitude.,,False,0
+"ALW-044 - During a flight at FL 80, the altimeter setting has to be...",1013.25 hPa.,,False,0
+ALW-045 - What is the purpose of the semi-circular rule?,To avoid collisions by reducing the probability of opposing traffic at the same altitude,,False,0
+ALW-046 - Which of the following options are possible SSR-Transponder modes?,"A, C, S",,False,0
+ALW-047 - A transponder with the ability to send the current pressure level is a...,mode C or S transponder.,,False,0
+ALW-048 - Which transponder code indicates a loss of radio communication?,7600,,False,0
+ALW-049 - Which transponder code should be set during a radio failure without any request?,7600,,False,0
+ALW-050 - Which transponder code has to be set unrequested during an emergency?,7700,,False,0
+ALW-051 - Which air traffic service is responsible for the safe conduct of flights?,ATC (air traffic control),,False,0
+ALW-052 - Air traffic control service is conducted by which services?,TWR (aerodrome control service) APP (approach control service) ACC (area control service),,False,0
+"ALW-053 - Which answer is correct with regard to separation in airspace ""E""?",VFR traffic is not separated from any other traffic,,False,0
+ALW-054 - Which air traffic services can be expected within an FIR (flight information region)?,FIS (flight information service) ALR (alerting service),,False,0
+ALW-055 - A pilot can contact FIS (flight information service)...,via radio communication.,,False,0
+ALW-056 - What is the correct phrase with respect to wake turbulence to indicate that a light aircraft is following an aircraft of a higher wake turbulence category?,Caution wake turbulence,,False,0
+ALW-057 - Which of the following options states a correct position report?,"DEABC, ""N"", 2500 ft",,False,0
+"ALW-058 - What is the meaning of the abbreviation ""AIREP""?",Aircraft report,,False,0
+ALW-059 - What information is provided in the general part (GEN) of the AIP?,"Map icons, list of radio nav aids, time for sunrise and sunset, airport fees, air traffic control fees",,False,0
+ALW-060 - What are the different parts of the Aeronautical Information Publication (AIP)?,GEN ENR AD,,False,0
+"ALW-061 - What information is provided in the part ""AD"" of the AIP?","Table of content, classification of airfields with corresponding maps, approach charts, taxi charts",,False,0
+ALW-062 - The shown NOTAM is valid until... A1024/13 A) LOWW B) 1305211200 C) 1305211400 E) STOCKERAU VOR STO 113.00 UNSERVICEABLE.,21/05/2013 14:00 UTC.,,False,0
+ALW-063 - A Pre-Flight Information Bulletin (PIB) is a presentation of current...,NOTAM information of operational significance prepared prior to flight.,,False,0
+"ALW-064 - The term ""aerodrome elevation"" is defined as...",the highest point of the landing area.,,False,0
+"ALW-065 - The term ""runway"" is defined as a...",rectangular area on a land aerodrome prepared for the landing and take-off of aircraft.,,False,0
+"ALW-066 - Which statement is correct with regard to the term ""taxi holding point""?",A taxi holding point is the point at which the aircraft must stop unless further permission to proceed is given,,False,0
+"ALW-067 - What does the reported runway condition ""WET"" mean?","The surface of the runway is soaked, but there are no significant patches of standing water",,False,0
+"ALW-068 - What does the reported runway condition ""DAMP"" mean?",Change of colour on the surface due to moisture,,False,0
+"ALW-069 - What does ""WATER PATCHES"" mean regarding the reported runway condition?",Patches of standing water are visible,,False,0
+ALW-070 - How can a wind direction indicator be marked for better visibility?,The wind direction indicator could be surrounded by a white circle.,,False,0
+ALW-071 - What is the meaning of a flashing red light signal at a controlled aerodrome directed to an aircraft in flight?,"Airport unsafe, do not land",,False,0
+ALW-072 - What is the meaning of a flashing green light signal at a controlled aerodrome directed to an aircraft in flight?,"Return for landing, followed by steady green at the appropriate time",,False,0
+ALW-073 - What is the meaning of a steady green light signal at a controlled aerodrome directed to an aircraft in flight?,Cleared to land,,False,0
+ALW-074 - What is the meaning of a flashing white light signal at a controlled aerodrome directed to an aircraft on ground?,Return to starting point,,False,0
+ALW-075 - What is the meaning of a flashing red light signal at a controlled aerodrome directed to an aircraft on ground?,Immediately taxi clear of runway in use,,False,0
+ALW-076 - What is the meaning of a flashing green light signal at a controlled aerodrome directed to an aircraft on ground?,Cleared to taxi,,False,0
+ALW-077 - Of what shape is a landing direction indicator?,T,,False,0
+ALW-078 - What is the purpose of the signal square at an aerodrome?,It contains special symbols to indicate the conditions at the aerodrome visually to over-flying aircraft,,False,0
+ALW-079 - In which way should a pilot confirm received light signals in flight?,Rock the wings (in the daytime),,False,0
+ALW-080 - What is the meaning of a steady red light signal at a controlled aerodrome directed to an aircraft on ground?,Stop,,False,0
+ALW-081 - How are two parallel runways designated?,"The left runway gets the suffix ""L"", the right runway ""R""",,False,0
+"ALW-082 - According to ICAO Annex 14, which is the colour marking of a runway?",White,,False,0
+ALW-083 - What is indicated by a pattern of longitudinal stripes of uniform dimensions disposed symmetrically about the centerline of a runway?,Do not touch down before them,,False,0
+ALW-084 - Which runway designators are correct for 2 parallel runways?,"06L and ""06R""",,False,0
+"ALW-085 - What is a ""PAPI"" (Precision Approach Path Indicator)?",A visual aid that provides guidance information to help a pilot acquire and maintain the correct glidepath to an aerodrome or an airport,,False,0
+ALW-086 - An aerodrome beacon (ABN) is a...,rotating beacon installed at an airport or aerodrome to indicate its location to aircraft pilots from the air.,,False,0
+ALW-087 - Which is the colour of runway edge lights?,White,,False,0
+ALW-088 - Which is the colour of runway end lights?,Red,,False,0
+ALW-089 - What is shown on the printed sign? See figure (ALW-019),Taxiway A,,False,0
+ALW-090 - What is shown on the printed sign? See figure (ALW-020),From this intersection the available runway length is 2500 m in the stated direction,,False,0
+ALW-091 - What is the meaning of this sign at an aerodrome? See figure (ALW-011),Glider flying is in progress,,False,0
+ALW-092 - What is the meaning of the illustrated ground signal as shown in the signal area of an aerodrome? See figure (ALW-012),After take-off and before landing all turns have to be made to the right,,False,0
+"ALW-093 - What is the meaning of ""DETRESFA""?",Distress phase,,False,0
+ALW-094 - Who provides search and rescue service?,Both military and civil organisations,,False,0
+ALW-095 - How can a pilot confirm a search and rescue signal on ground in flight?,Rock the wings,,False,0
+"ALW-096 - With respect to aircraft accident and incident investigation, what are the three categories regarding aircraft occurrences?",Incident Serious incident Accident,,False,0
+ALW-097 - What is the primary purpose of an aircraft accident investigation?,To identify the reasons and work out safety recommendations,,False,0

@@ -1,0 +1,62 @@
+Question,Correct,Answered,CorrectFlag,Count
+"OPR-001 - The term ""flight time"" is defined as...",the total time from the first aircraft movement until the moment it finally comes to rest at the end of the flight.,,False,0
+"OPR-002 - What should be considered regarding a scheduled flight over water, when land cannot be reached in case of an emergency landing?",For all passengers there must be life jackets or lifeboats present,,False,0
+OPR-003 - Which of the items below may have an influence on the noise perceived by a person on the ground? 1) Engine power setting 2) Propeller revolutions per minute 3) Position of the landing gear 4) Flap position 5) Flight track 6) Height above ground 7) Flight rules,"1, 2, 3, 4, 5, 6",,False,0
+OPR-004 - How can the pilot of an engine-driven aircraft minimise the noise emission during descent and approach?,"High approach with minimum power setting, late descent, late configuration, adherence to established arrival routes",,False,0
+OPR-005 - When should turns at low altitudes above villages be avoided with regard to noise abatement procedures?,In climb,,False,0
+OPR-006 - How should departures near villages be carried out?,Villages should be circumnavigated and crossed in a sufficient altitude,,False,0
+OPR-007 - Which kind of engine is susceptible to carburettor fire?,Piston engines,,False,0
+OPR-008 - Why is it dangerous to pump the throttle for engine start in cold weather?,It may cause a carburettor fire,,False,0
+OPR-009 - Which danger exists during engine start?,Carburettor fire,,False,0
+"OPR-010 - May an engine, which previously was on fire, be restarted?","No, the risk of a reignition of the fire would be too high",,False,0
+OPR-011 - Which gas is most dangerous during an engine fire?,Carbon monoxide,,False,0
+OPR-012 - Smoke enters the cockpit during an engine fire. Which actions have to be taken immediately?,Switching off the heating and the ventilating system,,False,0
+OPR-013 - What should be the first action in case of a cable fire during a flight?,Turn off the master switch,,False,0
+OPR-014 - What extinguishing agent is the least suitable for an aircraft fire?,Water,,False,0
+"OPR-015 - In flight, a little smoke emerges from behind the instrument panel. An electrical fire is suspected. Which action, with respect to the pilot's operating manual, should be taken?",Turn off the master switch,,False,0
+"OPR-016 - In flight, a little smoke emerges from behind the instrument panel. An engine fire is suspected. Which action, with respect to the pilot's operating manual, should be taken?",Turn off the heat,,False,0
+OPR-017 - A wind shear is...,a vertical or horizontal change of wind speed and wind direction.,,False,0
+OPR-018 - Which weather phenomenon is typically associated with wind shear?,Thunderstorms.,,False,0
+OPR-019 - When do you expect wind shear?,During an inversion,,False,0
+"OPR-020 - During an approach the aeroplane experiences a windshear with a decreasing headwind. If the pilot does not make any corrections, how do the approach path and the indicated airspeed (IAS) change?","Path is lower, IAS decreases",,False,0
+"OPR-021 - During an approach the aeroplane experiences a windshear with an increasing headwind. If the pilot does not make any corrections, how do the approach path and the indicated airspeed (IAS) change?","Path is higher, IAS increases",,False,0
+"OPR-022 - During an approach the aeroplane experiences a windshear with a decreasing tailwind. If the pilot does not make any corrections, how do the approach path and the indicated airspeed (IAS) change?","Path is higher, IAS increases",,False,0
+OPR-023 - After take-off an aeroplane gets into a wind shear with decreasing headwind. As a result...,the aeroplane flies below the estimated climb path.,,False,0
+OPR-024 - How may windshear be recognised in flight?,"Sudden and apparently baseless change in altitude, airspeed, rate of climb or descent.",,False,0
+OPR-025 - Which phenomenon may be expected at point 2 of the microburst?,Decrease of climb rate,,False,0
+OPR-026 - Which phenomenon may be expected at point 3 of the microburst?,Decrease in airspeed,,False,0
+OPR-027 - How can a wind shear encounter in flight be avoided?,Avoid take-off and landing during the passage of heavy showers or thunderstorms,,False,0
+OPR-028 - What action should be taken when entering a windshear? 1. Reduce speed 2. Retract gear and flaps 3. Maintain current configuration 4. Adjust thrust,3 and 4,,False,0
+"OPR-029 - After lift-off, a much stronger than expected airspeed rise is experienced during the initial climb phase. What may be expected if the aeroplane entered a microburst?",A decreased climb rate and airspeed,,False,0
+"OPR-030 - Immediately after lift-off, a microburst is entered inadvertently. Which action might avoid an unintentional descent?","Set maximum power, maintain present aircraft configuration, climb at the best rate of climb speed",,False,0
+OPR-031 - Wake turbulences develop during take-off just as the aeroplane...,lifts off with the front gear.,,False,0
+OPR-032 - Wake turbulence is caused by...,pressure compensation at the wingtip of an aerofoil.,,False,0
+OPR-033 - Wake turbulence is particularly strong...,when flying at low speeds.,,False,0
+OPR-034 - Wake turbulence is particularly strong...,at a high aeroplane weight.,,False,0
+OPR-035 - The intensity of wake turbulence depends on...,the weight of the aeroplane.,,False,0
+"OPR-036 - Two aircraft of the same type, same grossweight and same configuration fly at different airspeeds. Which aircraft will cause more severe wake turbulence?",The aircraft flying at slower speed.,,False,0
+"OPR-037 - Two aircraft of the same type, same gross weight and same flap configuration fly with different speeds and altitude. Which aircraft will cause more wake turbulence?",The aircraft flying at lower speed.,,False,0
+"OPR-038 - With only a slight crosswind, what is the danger at take-off after the departure of a heavy aeroplane?",Wake turbulence on or near the runway.,,False,0
+"OPR-039 - A light aircraft intends to land behind a commercial airliner belonging to wake turbulence category ""medium"" or ""heavy"" on a long runway. How can the wake turbulence of the commercial aircraft be avoided?","By making a steep approach and a long landing, touching down behind the touchdown point of the airliner's nose gear",,False,0
+OPR-040 - What should be observed when taxiing behind a commercial airliner?,"To avoid the jet blast, a minimum distance of 200 m should be maintained",,False,0
+"OPR-041 - A technical fault requires an emergency off-field landing. Which steps, with respect to the pilot's operating handbook, are necessary?","Locate a suitable landing area, plan the approach, complete the applicable emergency procedure, declare an emergency, start and concentrate on the approach in due time.",,False,0
+OPR-042 - Which method is appropriate to approach an unprepared landing field?,Terrain investigation to determine approach points and landing,,False,0
+OPR-043 - Which area is suitable for an off-field landing?,Harvested cornfield,,False,0
+OPR-044 - An emergency landing is a landing...,conducted in response to circumstances forcing the aircraft to land.,,False,0
+OPR-045 - A landing conducted in response to circumstances forcing the aircraft to land is a / an...,emergency landing.,,False,0
+OPR-046 - A precautionary landing is a landing...,conducted in an attempt to sustain flight safety.,,False,0
+OPR-047 - Which of the following landing areas is most suitable for an off-field landing?,A light brown field with short crops,,False,0
+"OPR-048 - How does the pilot prepare for a VFR flight over a large distance of water, when it is unlikely that land can be reached in case of an engine failure?",Carry life vests or a life raft for all occupants.,,False,0
+OPR-049 - Which items should a passenger briefing in case of an imminent emergency landing include?,"Nature of the emergency, intentions, safety position, evacuation routes, actions after landing",,False,0
+OPR-050 - After a precautionary landing the brakes and wheels are very hot. In which way should the pilot approach them?,From the front or back side,,False,0
+OPR-051 - What needs to be observed in conjunction with overheated brakes?,The affected tyres may burst in axial direction,,False,0
+"OPR-052 - In case of an emergency ditching, the life vests have to be inflated...",after disembarking the aircraft.,,False,0
+OPR-053 - What are the effects of wet grass on the take-off and landing distance?,Increase of the take-off distance and increase of the landing distance,,False,0
+OPR-054 - Under which circumstances may a runway be considered to be contaminated?,"When more than 25 % of the runway surface area within the required length and width being used is covered by water, slush, snow or ice more than 3 mm deep",,False,0
+"OPR-055 - What minimum coverage with ice or snow must be given to call a runway ""contaminated""?",25 %,,False,0
+OPR-056 - Wet snow on a runway can lead to...,increased rolling resistance during take-off.,,False,0
+OPR-057 - What danger does standing water on the runway pose to aircraft?,Increased rolling resistance during take-off,,False,0
+OPR-058 - Which danger exists after a heavy rain shower for a landing aircraft?,Longer braking distance due to aquaplaning,,False,0
+OPR-059 - Which would be the correct reaction when hydroplaning is suspected upon landing?,"If all wheels are in motion, brake moderately. Maintain directional control by aerodynamic means",,False,0
+OPR-060 - How should a landing on a contaminated runway be conducted if it proves to be inevitable?,"Approach with the minimum crosswind component possible, use maximum flaps, touch down firmly with minimum speed, brake carefully",,False,0
+"OPR-061 - During final approach, the glider pilot realizes a very bumpy surface on a selected off-field landing site. What technique may be recommended for landing?","Touch down with minimum speed, keep elevator pulled until full stop",,False,0

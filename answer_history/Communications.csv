@@ -1,0 +1,88 @@
+Question,Correct,Answered,CorrectFlag,Count
+COM-001 - In which situations should a pilot use blind transmissions?,"When no radio communication can be established with the appropriate aeronautical station, but when evidence exists that transmissions are received at that ground unit",,False,0
+COM-002 - Leaving a control frequency (except when reaching the final parking position)...,must be approved.,,False,0
+"COM-003 - Which abbreviation is used for the term ""abeam""?",ABM,,False,0
+"COM-004 - Which abbreviation is used for the term ""visual flight rules""?",VFR,,False,0
+"COM-005 - Which abbreviation is used for the term ""obstacle""?",OBST,,False,0
+"COM-006 - What does the abbreviation ""FIS"" stand for?",Flight information service,,False,0
+"COM-007 - What does the abbreviaton ""FIR"" stand for?",Flight information region,,False,0
+"COM-008 - What does the abbreviation ""H24"" stand for?",24 h service,,False,0
+"COM-009 - What does the abbreviation ""HX"" stand for?",No specific opening hours,,False,0
+COM-010 - The altimeter has to be set to what value in order to show zero on ground?,QFE,,False,0
+COM-011 - Which altitude is displayed on the altimeter when set to a specific QNH?,Altitude in relation to mean sea level,,False,0
+COM-012 - Which altitude is displayed on the altimeter when set to a specific QFE?,Altitude in relation to the air pressure at the reference airfield,,False,0
+"COM-013 - What does the abbreviation ""QDR"" stand for?",Magnetic bearing from the station,,False,0
+"COM-014 - What does the abbreviation ""QUJ"" stand for?",True bearing to the station,,False,0
+"COM-015 - What does the abbreviation ""QTE"" stand for?",True bearing from the station,,False,0
+COM-016 - Which Q-code is used for the magnetic bearing from the station?,QDR,,False,0
+COM-017 - Which Q-code is used for the true bearing from the station?,QTE,,False,0
+COM-018 - Which Q-code is used for the true bearing to the station?,QUJ,,False,0
+COM-019 - Which of the listed radiotelephony messages has a higher priority than a flight safety message?,Communication related to direction finding,,False,0
+COM-020 - What is the correct term for a message used for air traffic control?,Flight safety message,,False,0
+COM-021 - Distress messages are messages...,concerning aircraft and their passengers which face a grave and imminent threat and require immediate assistance.,,False,0
+COM-022 - Urgency messages are messages...,"concerning the safety of an aircraft, a watercraft or some other vehicle or person in sight.",,False,0
+COM-023 - Regularity messages are messages...,concerning the operation or maintenance of facilities essential for the safety or regularity of aircraft operation.,,False,0
+COM-024 - Which of the following messages has the highest priority?,Request QDM,,False,0
+COM-025 - What is the correct way to transmit the call sign HB-YKM?,Hotel Bravo Yankee Kilo Mike,,False,0
+COM-026 - What is the correct way to transmit the call sign OE-JVK?,Oscar Echo Juliett Victor Kilo,,False,0
+COM-027 - An altitude of 4500 ft is transmitted as...,four tousand five hundred.,,False,0
+COM-028 - A heading of 285 degrees is correctly transmitted as...,two eight five.,,False,0
+COM-029 - A frequency of 119.500 MHz is correctly transmitted as...,one one niner decimal five.,,False,0
+"COM-030 - The directional information ""12 o'clock"" is correctly transmitted as...",Twelve o'clock.,,False,0
+COM-031 - Times are transmitted as...,UTC.,,False,0
+"COM-032 - If there is any doubt about ambiguity, a time of 1620 is to be transmitted as...",one six two zero.,,False,0
+"COM-033 - What is the meaning of the phrase ""Roger""?",I have received all of your last transmission,,False,0
+"COM-034 - What is the meaning of the phrase ""Correction""?",An error has been made in this transmission. The correct version is...,,False,0
+"COM-035 - What is the meaning of the phrase ""Approved""?",Permission for proposed action is granted,,False,0
+COM-036 - Which phrase does a pilot use when he / she wants to check the readability of his / her transmission?,How do you read?,,False,0
+COM-037 - Which phrase is used by a pilot when he wants to fly through controlled airspace?,Request,,False,0
+"COM-038 - What phrase is used by a pilot if a transmission is to be answered with ""yes""?",Affirm,,False,0
+"COM-039 - What phrase is used by a pilot if a transmission is to be answered with ""no""?",Negative,,False,0
+COM-040 - Which phrase is to be used when a pilot wants the tower to know that he is ready for take-off?,Ready for departure,,False,0
+COM-041 - What phrase is used by a pilot to inform the tower about a go-around?,Going around,,False,0
+COM-042 - What is the call sign of the aerodrome control?,Tower,,False,0
+COM-043 - What is the call sign of the surface movement control?,Ground,,False,0
+COM-044 - What is the call sign of the flight information service?,Information,,False,0
+COM-045 - What is the correct abbreviation of the call sign D-EAZF?,DZF,,False,0
+COM-046 - In what case is the pilot allowed to abbreviate the call sign of his aircraft?,After the ground station has used the abbreviation,,False,0
+COM-047 - What is the correct way of using the aircraft call sign at first contact?,Using all characters,,False,0
+COM-048 - What is the correct way of establishing radio communication between D-EAZF and Dusseldorf Tower?,Dusseldorf Tower D-EAZF,,False,0
+"COM-049 - What is the correct way of acknowledging the instruction ""Call Hamburg Tower on 121.275""?",121.275,,False,0
+COM-050 - What does a readability of 1 indicate?,The transmission is unreadable,,False,0
+COM-051 - What does a readability of 2 indicate?,The transmission is readable now and then,,False,0
+COM-052 - What does a readability of 3 indicate?,The transmission is readable but with difficulty,,False,0
+COM-053 - What does a readability of 5 indicate?,The transmission is perfectly readable,,False,0
+COM-054 - Which information from a ground station does not require readback?,Wind,,False,0
+COM-055 - Which information from a ground station does not require readback?,Traffic information,,False,0
+"COM-056 - What is the correct way of acknowledging the instruction ""DZF after lift-off climb straight ahead until 2500 feet before turning right heading 220 degrees, wind 090 degrees, 5 knots, runway 12, cleared for take-off""?","DZF after lift-off climb straight ahead 2500 feet, then turn right heading 220, runway 12, cleared for take-off",,False,0
+"COM-057 - What is the correct way of acknowledging the instruction ""Next report PAH""?",Wilco,,False,0
+"COM-058 - What is the correct way of acknowledging the instruction ""Squawk 4321, Call Bremen Radar on 131.325""?","Squawk 4321, 131.325",,False,0
+"COM-059 - What is the correct way of acknowledging ""You are now entering airspace Delta""?",Roger,,False,0
+"COM-060 - What does a cloud coverage of ""FEW"" mean in a METAR weather report?",1 to 2 eighths,,False,0
+"COM-061 - What does a cloud coverage of ""SCT"" mean in a METAR weather report?",3 to 4 eighths,,False,0
+"COM-062 - What does a cloud coverage of ""BKN"" mean in a METAR weather report?",5 to 7 eighths,,False,0
+"COM-063 - Given a visibility of 12 km, what is the correct way to transmit this visibility?",One-zero kilometers or more.,,False,0
+COM-064 - In what case is visibility transmitted in meters?,Up to 5 km,,False,0
+COM-065 - In what cases is visibility transmitted in kilometers?,Greater than 5 km,,False,0
+COM-066 - What information is broadcasted on a VOLMET frequency?,Meteorological information,,False,0
+COM-067 - Which navigation facility may be used for broadcasting the ATIS?,VOR,,False,0
+COM-068 - How can you obtain meteorological information concerning airports during a cross-country flight?,VOLMET,,False,0
+COM-069 - Which transponder code indicates a radio failure?,7600,,False,0
+COM-070 - What is the correct phrase to begin a blind transmission?,Transmitting blind,,False,0
+COM-071 - On what frequency shall a blind transmission be made?,On the current frequency,,False,0
+COM-072 - How often shall a blind transmission be made?,One time,,False,0
+COM-073 - In what situation is it appropriate to set the transponder code 7600?,Loss of radio,,False,0
+COM-074 - What is the correct course of action when experiencing a radio failure in class D airspace?,The flight has to be continued according to the last clearance complying with VFR rules or the airspace has to be left by the shortest route,,False,0
+COM-075 - Under what conditions may class D airspace be entered with a radio failure?,Approval has been granted before,,False,0
+COM-076 - Which phrase is to be repeated three times before transmitting an urgency message?,Pan Pan,,False,0
+COM-077 - Urgency messages are defined as...,"messages concerning the safety of an aircraft, a watercraft or some other vehicle or person in sight.",,False,0
+COM-078 - Distress messages contain...,information concerning aircraft and their passengers which face a grave and imminent threat and require immediate assistance.,,False,0
+COM-079 - What is the correct frequency for an initial distress message?,Current frequency,,False,0
+COM-080 - What kind of information should be included in an urgency message?,"Nature of problem or observation, important information for support, intentions of the pilot, information about position, heading and altitude",,False,0
+COM-081 - The correct transponder code for emergencies is...,7700.,,False,0
+COM-082 - Which of the following frequencies is designated for VHF voice communication?,118.75 MHz,,False,0
+COM-083 - Which of the following frequencies is designated for VHF voice communication?,120.50 MHz,,False,0
+COM-084 - What is the correct designation of the frequency band from 118.000 to 136.975 MHz used for voice communication?,VHF,,False,0
+COM-085 - Which of the following factors affects the reception of VHF transmissions?,Altitude,,False,0
+COM-086 - What is the approximate speed of electromagnetic wave propagation?,300000 km/s,,False,0
+COM-087 - An ATIS is valid for...,30 minutes.,,False,0

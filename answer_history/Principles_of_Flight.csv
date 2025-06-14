@@ -1,0 +1,104 @@
+Question,Correct,Answered,CorrectFlag,Count
+"PFA-001 - Compared to trailing edge flaps, leading edge devices like Slots...",produce less drag while allowing a higher angle of attack.,,False,0
+PFA-002 - Stabilization around the lateral axis during cruise is achieved by the...,horizontal stabilizer.,,False,0
+PFA-003 - Flying with speeds higher than the never-exceed-speed (vNE) may result in...,flutter and mechanically damaging the wings.,,False,0
+PFA-004 - What effects typically result from propeller icing?,"Reduced power output, decreasing RPM.",,False,0
+"PFA-005 - During a straight and steady climb, which force acts additionally, and in the same direction as the drag force, resulting in more power required for climb than for horizontal flight?",A component of the weight force along the rearward flight path.,,False,0
+PFA-006 - The static pressure of gases work...,in all directions.,,False,0
+"PFA-007 - Bernoulli's equation for frictionless, incompressible gases states that...",total pressure = dynamic pressure + static pressure.,,False,0
+"PFA-008 - If surrounded by airflow (v>0), any arbitrarily shaped body produces...",drag.,,False,0
+PFA-009 - All aerodynamic forces can be considered to act on a single point. This point is called...,center of pressure.,,False,0
+PFA-010 - The center of pressure is the theoretical point of origin of...,all aerodynamic forces of the profile.,,False,0
+PFA-011 - Number 2 in the drawing corresponds to the...,chord.,,False,0
+PFA-012 - Number 3 in the drawing corresponds to the...,camber line.,,False,0
+PFA-013 - The angle of attack is the angle between...,the chord line and the oncoming airflow.,,False,0
+PFA-014 - The ratio of span and mean chord length is referred to as...,aspect ratio.,,False,0
+PFA-015 - Which point on the aerofoil is represented by number 3?,Transition point,,False,0
+PFA-016 - Which point on the aerofoil is represented by number 4?,Separation point,,False,0
+PFA-017 - Wing tip vortex development begins during which phase of flight?,When lift is being generated during rotation,,False,0
+PFA-018 - Which point on the aerofoil is represented by number 1?,Stagnation point,,False,0
+PFA-019 - What pattern can be found at the stagnation point?,Streamlines are divided into airflow above and below the profile,,False,0
+PFA-020 - What pressure pattern can be observed at a lift-generating wing profile at positive angle of attack?,"Low pressure is created above, higher pressure below the profile",,False,0
+PFA-021 - The position of the center of pressure at a positively shaped profile...,moves to the trailing edge while the angle of attack becomes smaller.,,False,0
+PFA-022 - In which way does the position of the center of pressure move at a positively shaped profile with increasing angle of attack?,It moves forward until reaching the critical angle of attack,,False,0
+PFA-023 - Which statement about lift and angle of attack is correct?,Increasing the angle of attack too far may result in a loss of lift and an airflow separation,,False,0
+PFA-024 - Which statement about the airflow around an aerofoil is correct if the angle of attack increases?,The stagnation point moves down,,False,0
+PFA-025 - Which statement about the airflow around an aerofoil is correct if the angle of attack decreases?,The center of pressure moves aft,,False,0
+PFA-026 - The angle (alpha) shown in the figure is referred to as...,angle of attack.,,False,0
+"PFA-027 - In order to improve the stall characteristics of an aircraft, the wing is twisted outwards (the angle of incidence varies spanwise). This is known as...",geometric washout.,,False,0
+PFA-028 - Which option states a benefit of wing washout?,At high angles of attack the effectiveness of the aileron is retained as long as possible,,False,0
+PFA-029 - Which statement concerning the angle of attack is correct?,A too large angle of attack may result in a loss of lift,,False,0
+"PFA-030 - When increasing the airflow speed by a factor of 2 while keeping all other parameters constant, how does the parasite drag change approximately?",It increases by a factor of 4,,False,0
+PFA-031 - The drag coefficient...,"cannot be lower than a non-negative, minimal value.",,False,0
+PFA-032 - Pressure compensation on an wing occurs at the...,wing tips.,,False,0
+PFA-033 - Which of the following options is likely to produce large induced drag?,Small aspect ratio,,False,0
+PFA-034 - Which parts of an aircraft mainly affect the generation of induced drag?,the wing tips.,,False,0
+PFA-035 - Where is interference drag generated?,At the wing root,,False,0
+PFA-036 - Which curve represents the induced drag?,1,,False,0
+"PFA-037 - Pressure drag, interference drag and friction drag belong to the group of the...",parasite drag.,,False,0
+PFA-038 - What kind of drag is NOT part of the parasite drag?,Induced drag,,False,0
+PFA-039 - How do induced drag and parasite drag change with increasing airspeed during a horizontal and stable cruise flight?,Induced drag decreases and parasite drag increases,,False,0
+PFA-040 - Which of the listed wing shapes has the lowest induced drag?,Elliptical shape,,False,0
+PFA-041 - Which effect does a decreasing airspeed have on the induced drag during a horizontal and stable cruise flight?,The induced drag will increase,,False,0
+PFA-042 - Which statement about induced drag during the horizontal cruise flight is correct?,Induced drag decreases with increasing airspeed,,False,0
+PFA-043 - In which mentioned situation is the total drag at its minimum?,Parasite drag is equal to induced drag,,False,0
+PFA-044 - Which kinds of drag contribute to total drag?,Induced drag and parasite drag,,False,0
+PFA-045 - How do lift and drag change when approaching a stall condition?,Lift decreases and drag increases,,False,0
+PFA-046 - In case of a stall it is important to...,decrease the angle of attack and increase the speed.,,False,0
+"PFA-047 - During a stall, the lift...",decreases and drag increases.,,False,0
+PFA-048 - The critical angle of attack...,is independent of the weight.,,False,0
+PFA-049 - What leads to a decreased stall speed Vs (IAS)?,Decreasing weight,,False,0
+PFA-050 - The stall warning will be activated just before reaching which speed?,VS,,False,0
+PFA-051 - In motorplanes the stall warning is usually activated by a change of...,the stagnation point.,,False,0
+PFA-052 - How should the pilot react to an engaged stall warning?,"Push the elevator, increase power",,False,0
+PFA-053 - Which statement regarding a spin is correct?,During recovery the ailerons should be kept neutral,,False,0
+"PFA-054 - When extending the flaps for landing at constant angle of attack, in which way does the lift coefficient change far before reaching the maximum lift coefficient?",It increases,,False,0
+"PFA-055 - With regard to flaps, which of the following options provides a lift-increasing effect?",Increasing the aerofoil camber,,False,0
+PFA-056 - Which factor can be changed by deploying flaps for landing?,The trim condition,,False,0
+PFA-057 - What is the principle of a Fowler flap?,A profile-like flap is extended from the trailing edge of the wing,,False,0
+PFA-058 - A take-off with flaps in take-off position causes...,a shortening of the take-off run.,,False,0
+"PFA-059 - Provided that no other procedure is described in the Aircraft Operating Handbook, after increasing the engine power in a go-around, the flaps may...",be retracted to a middle position.,,False,0
+PFA-060 - How do lift and drag change when setting flaps to a lower position?,"Lift increases, drag increases",,False,0
+PFA-061 - The laminar boundary layer on the aerofoil is located between...,the stagnation point and the transition point.,,False,0
+PFA-062 - What types of boundary layers can be found on an aerofoil?,"Laminar layer at the leading wing areas, turbulent boundary layer at the trailing areas",,False,0
+PFA-063 - How does a laminar boundary layer differ from a turbulent boundary layer?,The turbulent boundary layer can follow the airfoil camber at higher angles of attack,,False,0
+PFA-064 - What structural item provides lateral stability to an airplane?,Wing dihedral,,False,0
+PFA-065 - Which statement describes a situation of static stability?,An aircraft distorted by external impact will return to the original position,,False,0
+PFA-066 - Which constructive feature is shown in the figure?,Lateral stability by wing dihedral,,False,0
+PFA-067 - Longitudinal stability is referred to as stability around which axis?,Lateral axis,,False,0
+PFA-068 - Stability around which axis is mainly influenced by the center of gravity's longitudinal position?,Lateral axis,,False,0
+PFA-069 - What structural item provides directional stability to an airplane?,Large vertical tail,,False,0
+PFA-070 - Rotation around the vertical axis is called...,yawing.,,False,0
+PFA-071 - Rotation around the lateral axis is called...,pitching.,,False,0
+PFA-072 - The critical angle of attack...,is not changed by different aircraft weights.,,False,0
+"PFA-073 - In straight and level flight with constant performance of the engine, the angle of attack at the wing is...",smaller than in a climb.,,False,0
+PFA-074 - What is the function of the horizontal tail (among other things)?,To stabilise the aeroplane around the lateral axis,,False,0
+PFA-075 - The elevator deflection during take-off rotation...,is increased for a front centre of gravity.,,False,0
+PFA-076 - The elevator moves an aeroplane around the...,lateral axis.,,False,0
+PFA-077 - What has to be considered with regard to the center of gravity position?,Only correct loading can assure a correct and safe center of gravity position.,,False,0
+PFA-078 - Rudder deflections result in a turn of the aeroplane around the...,vertical axis.,,False,0
+PFA-079 - Deflecting the rudder to the left causes...,yawing of the aircraft to the left.,,False,0
+PFA-080 - What is the advantage of differential aileron movement?,The drag of the downwards deflected aileron is lowered and the adverse yaw is smaller,,False,0
+PFA-081 - Which design feature can compensate for adverse yaw?,Differential aileron defletion,,False,0
+PFA-082 - Differential aileron deflection is used to...,keep the adverse yaw low.,,False,0
+"PFA-083 - The right aileron deflects upwards, the left downwards. How does the aircraft react?","Rolling to the right, yawing to the left",,False,0
+PFA-084 - The aerodynamic rudder balance...,reduces the control stick forces.,,False,0
+PFA-085 - Which constructive feature has the purpose to reduce stearing forces?,Aerodynamic rudder balance,,False,0
+PFA-086 - What is the function of the static rudder balance?,To prevent control surface flutter,,False,0
+"PFA-087 - During cruise flight with constant power setting, an aircraft shows a permanent tendency to raise the nose. How can this tendency be eliminated?",By deflecting the elevator trim tab upwards,,False,0
+PFA-088 - The trim tab at the elevator is defelected upwards. In which position is the corresponding indicator?,Nose-down position,,False,0
+"PFA-089 - What describes ""wing loading""?",Weight per wing area,,False,0
+PFA-090 - Through which factor listed below does the load factor increase during cruise flight?,An upward gust,,False,0
+"PFA-091 - Which statement regarding the ""constant-speed propeller"" is correct?",The pitch of the propeller rises with higher speeds,,False,0
+PFA-092 - The change in pitch at a propeller blade from the root to the tip ensures...,a nearly constant load by a constant effective angle of attack over the entire length of the blade.,,False,0
+"PFA-093 - After an engine failure, the windmilling propeller...",generates drag rather than thrust.,,False,0
+"PFA-094 - During a descent at idle power with constant speed, the propeller lever is moved backwards. How do the propeller pitch and sink rate change?","Propeller pitch is increased, sink rate is decreased",,False,0
+PFA-095 - Point number 1 in the figure indicates which flight state?,Inverted flight,,False,0
+PFA-096 - Point number 5 in the figure indicates which flight state?,Slow flight,,False,0
+PFA-097 - The bank in a two-minute turn (rate one turn) depends on the...,TAS.,,False,0
+"PFA-098 - In a co-ordinated turn, how is the relation between the load factor (n) and the stall speed (Vs)?","n is greater than 1, Vs is greater than in straight and level flight.",,False,0
+PFA-099 - How is the balance of forces affected during a turn?,Lift force must be increased to compensate for the sum of centrifugal and gravitational force,,False,0
+PFA-100 - The pressure compensation between wind upper and lower surface results in ...,induced drag by wing tip vortices.,,False,0
+"PFA-101 - What is meant by ""ground effect""?",Increase of lift and decrease of induced drag close to the ground,,False,0
+PFA-102 - What is the diffeence between spin and spiral dive?,"Spin: stall at inner wing, speed constant;
+Spiral dive: airflow at both wings, speed increasing rapidly",,False,0
