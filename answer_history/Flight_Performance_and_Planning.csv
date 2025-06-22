@@ -1,184 +1,103 @@
 Question,Correct,Answered,CorrectFlag,Count
-FPP-001 - A flight plan has been filed for a flight departing at an uncontrolled aerodrome. When has the actual take-off time been transmitted to ATC?,Immediately after take-off.,,False,0
-"FPP-002 - During a flight with a flight plan submitted, landing is conducted at an airfield other than the destination stated in the filed flight plan. Who has to be contacted by the pilot immediately?",Aeronautical Information Service (AIS).,,False,0
-FPP-003 - Exceeding the maximum allowed aircraft mass is...,not permissible and essentially dangerous.,,False,0
-FPP-004 - The center of gravity has to be located...,between the front and the rear C.G. limit.,,False,0
-FPP-005 - The result of a rear C.G. position is...,a decrease of stability.,,False,0
-FPP-006 - An aircraft must be loaded and operated in such a way that the center of gravity (CG) stays within the approved limits during all phases of flight. This is done to ensure...,both stability and controllability of the aircraft.,,False,0
-FPP-007 - The result of a front C.G. position is: 1. Increase in stability. 2. Increase in fuel consumption. 3. Increase in stall speed. 4. Increase in range.,"1, 2, 3",,False,0
-FPP-008 - The basic empty mass of an aircraft includes...,"the mass of the aeroplane plus standard items such as unusable fuel and other unusable liquids, lubricating oil in engine and auxiliary units, fire extinguishers, pyrotechnics, emergency oxygen equipment, supplementary electronic equipment.",,False,0
-FPP-009 - The empty weight and the corresponding center of gravity (CG) of an aircraft are initially determined...,by weighing.,,False,0
-FPP-010 - The density of AVGAS 100LL at 15° C is...,0.72 kg/l.,,False,0
-FPP-011 - The conversion factor from kilogram [kg] into pounds [lb] is...,kg x 2.205 = lb.,,False,0
-"FPP-012 - Baggage and cargo must be properly stowed and fastened, otherwise a shift of the cargo may cause...","uncontrollable attitudes, structural damage, risk of injuries.",,False,0
-FPP-013 - Loads must be adequately secured in order to...,avoid any centre of gravity (C.G.) movements.,,False,0
-FPP-014 - The total weight of an aeroplane is acting vertically through the...,center of gravity.,,False,0
-"FPP-015 - The term ""center of gravity"" is defined as...",the point at which the total mass of the aeroplane is considered to act.,,False,0
-FPP-016 - The center of gravity (CG) defines...,the point through which the force of gravity is said to act on a mass.,,False,0
-FPP-017 - During an unaccelerated flight...,thrust equals drag and lift equals gravity.,,False,0
-"FPP-018 - The term ""datum"" with regard to a mass and balance calculation defines...",the point on the longitudinal axis of an aeroplane or its extension from which the centers of gravity of all masses are referenced.,,False,0
-"FPP-019 - The term ""moment"" with regard to a mass and balance calculation is referred to as...",product of a mass and a balance arm.,,False,0
-"FPP-020 - The term ""balance arm"" in the context of a mass and balance calculation defines the...",distance from the datum to the center of gravity of a mass.,,False,0
-FPP-021 - The distance between the center of gravity and the datum is called...,balance arm.,,False,0
-FPP-022 - The balance arm is the horizontal distance between...,the C.G. of a mass and the datum line.,,False,0
-FPP-023 - The required data for a mass and balance calculation including masses and balance arms can be found in the...,mass and balance section of the pilot's operating handbook of this particular aircraft.,,False,0
-"FPP-024 - When preparing to carry out the weighing procedure on an aircraft, which of the following is required?",Drain all usable fuel,,False,0
-FPP-025 - Which section of the flight manual describes the basic empty mass of an aircraft?,Weight and balance,,False,0
-FPP-026 - The position of the center of gravity equals...,142 in.,,False,0
-FPP-027 - What mass equals 102 litres of Avgas 100LL?,74 kg,,False,0
-"FPP-028 - Calculated take-off mass = 2300 lbs, calculated CG = 95.75 in, fuel burn = 170 lbs on station 87.00 in. Where is the CG situated after the landing?",96.45 in,,False,0
-"FPP-029 - Given values: Calculated take-off mass = 746 kg, calculated CG = 37.1 cm, fuel burn = 30.5 l on station 45 cm. Where is the CG situated after the landing?",36.9 cm,,False,0
-"FPP-030 - Calculated take-off mass = 1082 kg, calculated CG = 0.254 m, fuel burn = 55 l on station 0.40 m. Where is the CG situated after the landing?",24.8 cm,,False,0
-FPP-031 - The position of the center of gravity (including fuel) equals...,37.1 cm.,,False,0
-"FPP-032 - For the purpose of a flight preparation, the pilot calculates a total take-off mass of 750 kg and a total moment of 625 mmkg. Which cross marks the center of gravity (CG)?",1,,False,0
-FPP-033 - For the purpose of a flight preparation the pilot calculates a total take-off mass of 725 kg and a total moment of 650 mmkg. Which cross marks the center of gravity (CG)?,3,,False,0
-FPP-034 - For the purpose of a flight preparation the pilot calculates a total take-off mass of 775 kg and a total moment of 700 mmkg. Which cross marks the center of gravity (CG)?,4,,False,0
-FPP-035 - Which is the most recently determined empty mass and the associated center of gravity (CG) arm from the aircraft documentation?,"498 kg, 280.59 m",,False,0
-FPP-036 - How does the aircraft configuration influence take-off performance while all other parameters remaining constant?,Aircraft A has a higher flap setting than aircraft B,,False,0
-FPP-037 - How does aircraft flap configuration influence the take-off performance?,"A higher flap setting decreases ground roll and lift-off speed, but also climb performance",,False,0
-FPP-038 - How does wind affect the take-off performance?,Tailwind reduces the relative wind on the airfoil. The take-off distance will increase,,False,0
-"FPP-039 - It is possible that the surface wind speed at an airport is reduced due to friction. When a surface area with a minor tailwind condition is left during the initial climb, the pilot might expect...",a decrease in airspeed and rate of climb due to increasing tailwind.,,False,0
-FPP-040 - Which factor shortens landing distance?,Strong headwind,,False,0
-FPP-041 - Unless the aircraft is equipped and certified accordingly...,"flight into known or forecast icing conditions is prohibited. Should the aircraft enter an area of icing conditions inadvertently, it should be left without delay.",,False,0
-FPP-042 - The speed Vx means...,that a given altitude is reached within minimum distance.,,False,0
-FPP-043 - The angle of descent is defined as...,"the angle between a horizontal plane and the actual flight path, expressed in degrees [°].",,False,0
-"FPP-044 - The term ""steady flight"" is defined as...","unaccelerated flight. The four forces thrust, drag, lift, and weight are in equilibrium.",,False,0
-FPP-045 - The speed Vy is defined as...,best rate of climb.,,False,0
-FPP-046 - The speed VFE is defined as...,maximum flap extended speed.,,False,0
-FPP-047 - The speed VS0 is defined as...,stalling speed or minimum steady flight speed in landing configuration.,,False,0
-FPP-048 - The beginning of the green arc (2) indicates which airspeed?,VS1: Stall speed with flaps up,,False,0
-FPP-049 - The end of the green arc (4) indicates which airspeed?,VNO: Maximum speed for normal operations,,False,0
-FPP-050 - The red marking at the end of the yellow arc (5) indicates which airspeed?,VNE: Never-exceed,,False,0
-FPP-051 - Which climb speed may be used to optimize the rate of climb (e.g. to reach a desired altitude within minimum time)?,"Vy, the best rate of climb speed",,False,0
-"FPP-052 - For a take-off from runway 22 and a reported wind of 250°/10 kt, the longitudinal wind component equals...",9 kt headwind.,,False,0
-"FPP-053 - Given the following conditions, the take-off distance equals... Outside air temperature: -20° C, Pressure Altitude: 5000 ft, Aeroplane mass: 750 kg, Headwind: 10 kt",380 m.,,False,0
-"FPP-054 - A pilot wants to take off on runway 36, the reported wind is 240 degrees, 12 knots. What is the value of the wind components acting on the aircraft on take-off and landing?","Crosswind from the left, 10.4 kt., Tailwind 6 kt.",,False,0
-"FPP-055 - What is the take-off distance at 750 kg take-off mass, standard (ISA) conditions at an elevation of 4000 ft with 5 kt tailwind?",900 m,,False,0
-"FPP-056 - What is the take-off distance at 705 kg take-off mass, OAT 20° C, QNH 1013 hPa at an elevation of 3500 ft with 5 kt tailwind?",880 m,,False,0
-"FPP-057 - A pilot wants to take off on runway 36, the reported wind is 240 degrees 12 knots. What are the wind components acting on the aircraft on take-off and landing?","Crosswind from the left, 10.4 kt., Tailwind 6 kt.",,False,0
-"FPP-058 - Given the following conditions, the fuel consumption equals... Pressure altitude: 2000 ft, Temperature: 31° C, RPM: 2400",19.5 l/h.,,False,0
-"FPP-059 - Given the following conditions, the climb speed equals... Outside air temperature: -20° C, Pressure altitude: 10000 ft",390 ft/min.,,False,0
-"FPP-060 - What range can be achieved at the following conditions? Outside air temperature: 6° C, Pressure Altitude: 6000 ft, Power: 65 %",482 NM,,False,0
-"FPP-061 - Given the following information, what range can be achieved? Outside air temperature: 22° C, Pressure altitude: 2000 ft, Power: 55 %",500 NM,,False,0
-"FPP-062 - Given the following conditions, the TAS equals... Outside air temperature: 10° C, Pressure altitude: 6000 ft, Power: 65 %",92 kt.,,False,0
-"FPP-063 - Given the following conditions, the TAS equals... Outside air temperature: -2° C, Pressure altitude: 8000 ft, Power: 75 %",104 kt.,,False,0
-FPP-064 - Which maximum rate of climb can the aircraft reach at 9000ft pressure altitude and OAT of 12° C?,200 ft/min,,False,0
-FPP-065 - Which is the maximum rate of climb for the aircraft at 6500 ft pressure altitude and an OAT of 0° C?,480 ft / min,,False,0
-"FPP-066 - What is the true airspeed (TAS) [kt] and fuel consumption [l/h] for cruise flight with 60 % power in flight level 60 under the following conditions? Temperature: ISA - 20° C, QNH: 980 hPa","95 kt., 19.6 l/h.",,False,0
-"FPP-067 - What is the true airspeed (TAS) [kt] and fuel consumption [l/h] for cruise flight with 70 % power in flight level 60 under the following conditions? Temperature: ISA - 20° C, QNH: 980 hPa","110 kt., 23.9 l/h.",,False,0
-FPP-068 - What is the fuel flow and the true airspeed for cruise flight with 60 % power in flight level 85 at an OAT of -25° C?,"Fuel flow: 18.5 l., TAS: 85 kt.",,False,0
-"FPP-069 - At which airspeed do you climb to flight level (FL) 75 after a departure from an airfield which is located at a pressure altitude of 3000 ft with an initial mass of 3000 lbs? OAT at airfield: 25° C, OAT in FL 75: 0° C",110 kt,,False,0
-"FPP-070 - What is the required fuel to climb from FL 65 to FL 95 under the following conditions? Aircraft mass: 3000 lb., OAT in FL 65: -5° C, OAT in FL 95: -15° C",1 GAL,,False,0
-"FPP-071 - What is the required distance to climb from FL 65 to FL 95 under the following conditions: Aircraft mass: 3000 lb., OAT in FL 65: -5° C, OAT in FL 95: -15° C",6 NM,,False,0
-"FPP-072 - What is the required distance to climb to flight level (FL) 75 after a departure from an airfield which is located at a pressure altitude of 3000 ft with an initial mass of 3000 lbs? OAT at airfield: 25° C, OAT in FL 75: 0° C",7 NM,,False,0
-"FPP-073 - The term ""maximum elevation figure"" (MEF) is defined as...","the highest elevation within an area covering 30 minutes of latitude and 30 minutes of longitude plus a safety margin, rounded to the next higher 100 ft.",,False,0
-"FPP-074 - What is the purpose of ""interception lines"" in visual navigation?",They are used to recognizable landing as easy guidance after a possible loss of landing,,False,0
-FPP-075 - The VFR semicircular rules are based on the...,magnetic course (MC).,,False,0
-FPP-076 - What is the lowest possible VFR flight level if a true course of 181° is selected and a variation of 3 ° east exists?,FL 055,,False,0
-"FPP-077 - The upper limit of LO R 16 equals...
-See annex (PFP-056) ",1 500 ft MSL.,,False,0
-"FPP-078 - The upper limit of LO R 4 equals...
-See annex (PFP-030) ",4.500 ft MSL.,,False,0
-"FPP-079 - How much taxi fuel must be consumed before take-off to reduce the aircraft mass to
-the maximum take-off mass?
-Maximum ramp mass (MRM): 1150 kg
-Actual ramp mass: 1148 kg
-Maximum take-off mass (MTOM): 1145 kg ",4 L,,False,0
-"FPP-080 - Considering the following fuel data, how much trip fuel is required?
-Fuel for start-up and taxi: 5 L
-Fuel for take-off and climb: 12 L
-Fuel for cruise flight: 25 L
-Fuel for descent, approach and landing: 7 L
-Fuel for taxi and parking: 3 L
-Fuel to alternate: 13 L
-Final reserve fuel: 10 L",44 L,,False,0
-"FPP-081 - According to the aeronautical chart, Friesach/Hirt (LOKH) has a 707 m grass runway.
-Prevailing runway is 17 due to a surface wind of 18010KT. The required landing
-distance for your aircraft under present conditions is 550 m. Considering the NOTAM
-below ,is it safe to plan LOKH as an alternate aerodrome?
-See figure (PFP-026)",No.,,False,0
-"FPP-082 - Up to which altitude is an overflight prohibited according to the NOTAM?
-See figure (PFP-024)",Altitude 9500 ft MSL,,False,0
-FPP-083 - The EOBT (estimated time of departure time) is specified in the HACH flight plan as...,Coordinated Universal Time (UTC).,,False,0
-"FPP-084 - What is the nature of the flight shown in the given ATC flight plan?
-See annex (PFP-051a)",Night flight under visual flight rules.,,False,0
-"FPP-085 - The specified speed in the ATS flight plan equals:
-See annex (PFP-051) ",100 kt.,,False,0
-FPP-086 - What must be considered for cross-border flights?,Requires flight plans,,False,0
-"FPP-087 - During a flight, a flight plan can be filed at the...",Flight Information Service (FIS).,,False,0
-"FPP-088 - In comparison to the true airspeed in still air conditions, the TAS in a strong tailwind
-will be",slightly lower for maximum range,,False,0
-FPP-089 - What happens to the true airspeed at a constant indicated airspeed during a climb? ,It increases,,False,0
-"FPP-090 - Given the following data:
-Take-Off fuel = 200 lbs
-Alternate fuel = 40 lbs
-Final reserve fuel = 30 lbs
-After 25 minutes the remaining fuel is 120 lbs.
-Assuming that fuel flow will remain unchanged,
-the remaining time to the destination should not exceed:",15.6 min,,False,0
-"FPP-091 - Given the following data for a VFR flight:
-Take-off fuel: 180 kg including reserve fuel, which is 30% of take off fuel.
-After half of the distance the remaining fuel is 100 kg.
-Assume that cruise conditions will remain unchanged.
-Determine the remaining fuel at the destination:",20 kg,,False,0
-"FPP-092 - During a VFR flight the remaining usable fuel at a checkpoint is 80 USG.
-Reserve fuel is 20 USG, remaining flight time according to flight plan is 2h 20min.
-What is the highest acceptable fuel flow (FF) for the rest of the trip?",FF = 25.7 USG/h,,False,0
-"FPP-093 - Planning a flight from EDWF (Leer Papenburg) to EDWH (Oldenburg Hatten),
-the following conditions apply:
-Cruise level = FL 75
-Temperature = ISA
-Cruise weight = 3400 lbs
-Power setting = 23.0 in. HG @ 2300 RPM
-Determine True Airspeed (TAS) and Fuel Flow (FF):","TAS = 160 kt
-FF = 11.9 GPH",,False,0
-"FPP-094 - Planning a flight from EDWH (Oldenburg Hatten) to EDWF (Leer Papenburg),
-the following conditions apply:
-Cruise level = FL 65
-Temperature = ISA+20
-Cruise weight = 3400 lbs
-Power setting = 23.0 in. HG @ 2300 RPM
-What Indicated Airspeed (IAS) and Fuel Flow (FF) can be expected?","IAS = 142 kt
-FF = 11.5 GPH",,False,0
-"FPP-095 - For planning a VFR flight, the following data are given:
-Flight time with planning ""overhead-overhead"" = 2h 43min
-Pressure Altitude = 6.500 ft
-Temperature = ISA-20
-Power setting = 2300 RPM
-Taxi Fuel = 2 USG
-Additional time for climb = 7 min,
-Additional time for approach and landing = 10 min
-The reserve fuel has to be 30% of trip fuel.
-Determine the minimum block fuel:",50.4 USG,,False,0
-"FPP-096 - For planning a VFR flight, the following data are given:
-Flight time with planning ""overhead-overhead"" = 2h 42min
-Pressure Altitude = 7.500 ft
-Temperature = ISA
-Power setting = 2300 RPM
-Taxi Fuel = 2 USG
-Additional time for climb = 8 min,
-Additional time for approach and landing = 10 min
-The reserve fuel has to be 30% of trip fuel.
-Determine the minimum block fuel:",48.4 USG,,False,0
-"FPP-097 - Given the following data for a VFR flight:
-Trip fuel = 70 US gallons
-Contingency fuel = 5% of trip fuel
-Alternate and final reserve fuel = 20 US gallons
-Usable fuel at take-off = 95 US gallons
-After half of the distance you read that you have consumed 40 US gallons.
-Assume that fuel flow remains unchanged.
-Which statement is correct? ","The remaining fuel is insufficient for a landing at destination with alternate and final reserve fuel
-remaining.",,False,0
-"FPP-098 - Given the following data for a VFR flight:
-Trip fuel = 70 US gallons
-Contingency fuel = 5% of trip fuel.
-Alternate and final reserve fuel = 20 US gallons
-Usable fuel at take-off = 90 US gallons
-After half of the distance you read that you have consumed 30 US gallons.
-Assume that fuel flow remains unchanged.
-Which statement is correct?",Upon landing 10.0 US gallons will remain in addition to alternate and final reserve fuel.,,False,0
-"FPP-099 - According ICAO, what symbol indicates a group of unlighted obstacles?",C,,False,0
-"FPP-100 - According ICAO, what symbol indicates a civil airport (not international airport)
-with paved runway?",A,,False,0
-"FPP-101 - According ICAO, what symbol indicates a general spot elevation?",C,,False,0
-FPP-102 - How does the air temperature influence the performance of a piston engine?,"Higher temperature corresponds to lower air density,this leads to lower engine performance",,False,0
+FPP-001 - A flight plan has been filed for a flight departing at an uncontrolled aerodrome. When has the actual take-off time been transmitted to ATC?,Immediately after take-off.,,False,3
+"FPP-002 - During a flight with a flight plan submitted, landing is conducted at an airfield other than the destination stated in the filed flight plan. Who has to be contacted by the pilot immediately?",Aeronautical Information Service (AIS).,,False,3
+FPP-003 - Exceeding the maximum allowed aircraft mass is...,not permissible and essentially dangerous.,,False,3
+FPP-004 - The center of gravity has to be located...,between the front and the rear C.G. limit.,,False,3
+FPP-005 - The result of a rear C.G. position is...,a decrease of stability.,,False,3
+FPP-006 - An aircraft must be loaded and operated in such a way that the center of gravity (CG) stays within the approved limits during all phases of flight. This is done to ensure...,both stability and controllability of the aircraft.,,False,3
+FPP-007 - The result of a front C.G. position is: 1. Increase in stability. 2. Increase in fuel consumption. 3. Increase in stall speed. 4. Increase in range.,"1, 2, 3",,False,3
+FPP-008 - The basic empty mass of an aircraft includes...,"the mass of the aeroplane plus standard items such as unusable fuel and other unusable liquids, lubricating oil in engine and auxiliary units, fire extinguishers, pyrotechnics, emergency oxygen equipment, supplementary electronic equipment.",,False,3
+FPP-009 - The empty weight and the corresponding center of gravity (CG) of an aircraft are initially determined...,by weighing.,,False,3
+FPP-010 - The density of AVGAS 100LL at 15° C is...,0.72 kg/l.,,False,3
+FPP-011 - The conversion factor from kilogram [kg] into pounds [lb] is...,kg x 2.205 = lb.,,False,2
+"FPP-012 - Baggage and cargo must be properly stowed and fastened, otherwise a shift of the cargo may cause...","uncontrollable attitudes, structural damage, risk of injuries.",,False,2
+FPP-013 - Loads must be adequately secured in order to...,avoid any centre of gravity (C.G.) movements.,,False,2
+FPP-014 - The total weight of an aeroplane is acting vertically through the...,center of gravity.,,False,2
+"FPP-015 - The term ""center of gravity"" is defined as...",the point at which the total mass of the aeroplane is considered to act.,,False,2
+FPP-016 - The center of gravity (CG) defines...,the point through which the force of gravity is said to act on a mass.,,False,2
+FPP-017 - During an unaccelerated flight...,thrust equals drag and lift equals gravity.,,False,2
+"FPP-018 - The term ""datum"" with regard to a mass and balance calculation defines...",the point on the longitudinal axis of an aeroplane or its extension from which the centers of gravity of all masses are referenced.,,False,2
+"FPP-019 - The term ""moment"" with regard to a mass and balance calculation is referred to as...",product of a mass and a balance arm.,,False,2
+"FPP-020 - The term ""balance arm"" in the context of a mass and balance calculation defines the...",distance from the datum to the center of gravity of a mass.,,False,2
+FPP-021 - The distance between the center of gravity and the datum is called...,balance arm.,,False,2
+FPP-022 - The balance arm is the horizontal distance between...,the C.G. of a mass and the datum line.,,False,2
+FPP-023 - The required data for a mass and balance calculation including masses and balance arms can be found in the...,mass and balance section of the pilot's operating handbook of this particular aircraft.,,False,2
+"FPP-024 - When preparing to carry out the weighing procedure on an aircraft, which of the following is required?",Drain all usable fuel,,False,2
+FPP-025 - Which section of the flight manual describes the basic empty mass of an aircraft?,Weight and balance,,False,2
+FPP-026 - The position of the center of gravity equals...,142 in.,,False,2
+FPP-027 - What mass equals 102 litres of Avgas 100LL?,74 kg,,False,2
+"FPP-028 - Calculated take-off mass = 2300 lbs, calculated CG = 95.75 in, fuel burn = 170 lbs on station 87.00 in. Where is the CG situated after the landing?",96.45 in,,False,2
+"FPP-029 - Given values: Calculated take-off mass = 746 kg, calculated CG = 37.1 cm, fuel burn = 30.5 l on station 45 cm. Where is the CG situated after the landing?",36.9 cm,,False,2
+"FPP-030 - Calculated take-off mass = 1082 kg, calculated CG = 0.254 m, fuel burn = 55 l on station 0.40 m. Where is the CG situated after the landing?",24.8 cm,,False,2
+FPP-031 - The position of the center of gravity (including fuel) equals...,37.1 cm.,,False,2
+"FPP-032 - For the purpose of a flight preparation, the pilot calculates a total take-off mass of 750 kg and a total moment of 625 mmkg. Which cross marks the center of gravity (CG)?",1,,False,2
+FPP-033 - For the purpose of a flight preparation the pilot calculates a total take-off mass of 725 kg and a total moment of 650 mmkg. Which cross marks the center of gravity (CG)?,3,,False,2
+FPP-034 - For the purpose of a flight preparation the pilot calculates a total take-off mass of 775 kg and a total moment of 700 mmkg. Which cross marks the center of gravity (CG)?,4,,False,2
+FPP-035 - Which is the most recently determined empty mass and the associated center of gravity (CG) arm from the aircraft documentation?,"498 kg, 280.59 m",,False,2
+FPP-036 - How does the aircraft configuration influence take-off performance while all other parameters remaining constant?,Aircraft A has a higher flap setting than aircraft B,,False,2
+FPP-037 - How does aircraft flap configuration influence the take-off performance?,"A higher flap setting decreases ground roll and lift-off speed, but also climb performance",,False,2
+FPP-038 - How does wind affect the take-off performance?,Tailwind reduces the relative wind on the airfoil. The take-off distance will increase,,False,2
+"FPP-039 - It is possible that the surface wind speed at an airport is reduced due to friction. When a surface area with a minor tailwind condition is left during the initial climb, the pilot might expect...",a decrease in airspeed and rate of climb due to increasing tailwind.,,False,2
+FPP-040 - Which factor shortens landing distance?,Strong headwind,,False,2
+FPP-041 - Unless the aircraft is equipped and certified accordingly...,"flight into known or forecast icing conditions is prohibited. Should the aircraft enter an area of icing conditions inadvertently, it should be left without delay.",,False,2
+FPP-042 - The speed Vx means...,that a given altitude is reached within minimum distance.,,False,2
+FPP-043 - The angle of descent is defined as...,"the angle between a horizontal plane and the actual flight path, expressed in degrees [°].",,False,2
+"FPP-044 - The term ""steady flight"" is defined as...","unaccelerated flight. The four forces thrust, drag, lift, and weight are in equilibrium.",,False,2
+FPP-045 - The speed Vy is defined as...,best rate of climb.,,False,2
+FPP-046 - The speed VFE is defined as...,maximum flap extended speed.,,False,2
+FPP-047 - The speed VS0 is defined as...,stalling speed or minimum steady flight speed in landing configuration.,,False,2
+FPP-048 - The beginning of the green arc (2) indicates which airspeed?,VS1: Stall speed with flaps up,,False,2
+FPP-049 - The end of the green arc (4) indicates which airspeed?,VNO: Maximum speed for normal operations,,False,2
+FPP-050 - The red marking at the end of the yellow arc (5) indicates which airspeed?,VNE: Never-exceed,,False,2
+FPP-051 - Which climb speed may be used to optimize the rate of climb (e.g. to reach a desired altitude within minimum time)?,"Vy, the best rate of climb speed",,False,2
+"FPP-052 - For a take-off from runway 22 and a reported wind of 250°/10 kt, the longitudinal wind component equals...",9 kt headwind.,,False,2
+"FPP-053 - Given the following conditions, the take-off distance equals... Outside air temperature: -20° C, Pressure Altitude: 5000 ft, Aeroplane mass: 750 kg, Headwind: 10 kt",380 m.,,False,2
+"FPP-054 - A pilot wants to take off on runway 36, the reported wind is 240 degrees, 12 knots. What is the value of the wind components acting on the aircraft on take-off and landing?","Crosswind from the left 10.4 kt., Tailwind 6 kt.",,False,2
+"FPP-055 - What is the take-off distance at 750 kg take-off mass, standard (ISA) conditions at an elevation of 4000 ft with 5 kt tailwind?",900 m,,False,2
+"FPP-056 - What is the take-off distance at 705 kg take-off mass, OAT 20° C, QNH 1013 hPa at an elevation of 3500 ft with 5 kt tailwind?",880 m,,False,2
+"FPP-057 - A pilot wants to take off on runway 36, the reported wind is 240 degrees 12 knots. What are the wind components acting on the aircraft on take-off and landing?","Crosswind from the left 10.4 kt., Tailwind 6 kt.",,False,2
+"FPP-058 - Given the following conditions, the fuel consumption equals... Pressure altitude: 2000 ft, Temperature: 31° C, RPM: 2400",19.5 l/h.,,False,2
+"FPP-059 - Given the following conditions, the climb speed equals... Outside air temperature: -20° C, Pressure altitude: 10000 ft",390 ft/min.,,False,2
+"FPP-060 - What range can be achieved at the following conditions? Outside air temperature: 6° C, Pressure Altitude: 6000 ft, Power: 65 %",482 NM,,False,2
+"FPP-061 - Given the following information, what range can be achieved? Outside air temperature: 22° C, Pressure altitude: 2000 ft, Power: 55 %",500 NM,,False,2
+"FPP-062 - Given the following conditions, the TAS equals... Outside air temperature: 10° C, Pressure altitude: 6000 ft, Power: 65 %",92 kt.,,False,2
+"FPP-063 - Given the following conditions, the TAS equals... Outside air temperature: -2° C, Pressure altitude: 8000 ft, Power: 75 %",104 kt.,,False,2
+FPP-064 - Which maximum rate of climb can the aircraft reach at 9000ft pressure altitude and OAT of 12° C?,200 ft/min,,False,2
+FPP-065 - Which is the maximum rate of climb for the aircraft at 6500 ft pressure altitude and an OAT of 0° C?,480 ft / min,,False,2
+"FPP-066 - What is the true airspeed (TAS) [kt] and fuel consumption [l/h] for cruise flight with 60 % power in flight level 60 under the following conditions? Temperature: ISA - 20° C, QNH: 980 hPa","95 kt., 19.6 l/h.",,False,2
+"FPP-067 - What is the true airspeed (TAS) [kt] and fuel consumption [l/h] for cruise flight with 70 % power in flight level 60 under the following conditions? Temperature: ISA - 20° C, QNH: 980 hPa",110 kt. - 23.9 l/h.,,False,2
+FPP-068 - What is the fuel flow and the true airspeed for cruise flight with 60 % power in flight level 85 at an OAT of -25° C?,"Fuel flow: 18.5 l., TAS: 85 kt.",,False,2
+"FPP-069 - At which airspeed do you climb to flight level (FL) 75 after a departure from an airfield which is located at a pressure altitude of 3000 ft with an initial mass of 3000 lbs? OAT at airfield: 25° C, OAT in FL 75: 0° C",110 kt,,False,2
+"FPP-070 - What is the required fuel to climb from FL 65 to FL 95 under the following conditions? Aircraft mass: 3000 lb., OAT in FL 65: -5° C, OAT in FL 95: -15° C",1 GAL,,False,2
+"FPP-071 - What is the required distance to climb from FL 65 to FL 95 under the following conditions: Aircraft mass: 3000 lb., OAT in FL 65: -5° C, OAT in FL 95: -15° C",6 NM,,False,2
+"FPP-072 - What is the required distance to climb to flight level (FL) 75 after a departure from an airfield which is located at a pressure altitude of 3000 ft with an initial mass of 3000 lbs? OAT at airfield: 25° C, OAT in FL 75: 0° C",7 NM,,False,2
+"FPP-073 - The term ""maximum elevation figure"" (MEF) is defined as...","the highest elevation within an area covering 30 minutes of latitude and 30 minutes of longitude plus a safety margin, rounded to the next higher 100 ft.",,False,2
+"FPP-074 - What is the purpose of ""interception lines"" in visual navigation?",They are used as easily recognizable guidance upon a possible loss of orientation,,False,2
+FPP-075 - The VFR semicircular rules are based on the...,magnetic course (MC).,,False,2
+FPP-076 - What is the lowest possible VFR flight level if a true course of 181° is selected and a variation of 3 ° east exists?,FL 055,,False,2
+FPP-077 - The upper limit of LO R 16 equals... See annex (PFP-056),1 500 ft MSL.,,False,2
+FPP-078 - The upper limit of LO R 4 equals... See annex (PFP-030),4.500 ft MSL.,,False,2
+FPP-079 - How much taxi fuel must be consumed before take-off to reduce the aircraft mass to the maximum take-off mass? Maximum ramp mass (MRM): 1150 kg Actual ramp mass: 1148 kg Maximum take-off mass (MTOM): 1145 kg,4 L,,False,2
+"FPP-080 - Considering the following fuel data, how much trip fuel is required? Fuel for start-up and taxi: 5 L Fuel for take-off and climb: 12 L Fuel for cruise flight: 25 L Fuel for descent, approach and landing: 7 L Fuel for taxi and parking: 3 L Fuel to alternate: 13 L Final reserve fuel: 10 L",44 L,,False,2
+"FPP-081 - According to the aeronautical chart, Friesach/Hirt (LOKH) has a 707 m grass runway. Prevailing runway is 17 due to a surface wind of 18010KT. The required landing distance for your aircraft under present conditions is 550 m. Considering the NOTAM below ,is it safe to plan LOKH as an alternate aerodrome? See figure (PFP-026)",No.,,False,2
+FPP-082 - Up to which altitude is an overflight prohibited according to the NOTAM? See figure (PFP-024),Altitude 9500 ft MSL,,False,2
+FPP-083 - The EOBT (estimated time of departure time) is specified in the HACH flight plan as...,Coordinated Universal Time (UTC).,,False,2
+FPP-084 - What is the nature of the flight shown in the given ATC flight plan? See annex (PFP-051a),Night flight under visual flight rules.,,False,2
+FPP-085 - The specified speed in the ATS flight plan equals: See annex (PFP-051),100 kt.,,False,2
+FPP-086 - What must be considered for cross-border flights?,Requires flight plans,,False,2
+"FPP-087 - During a flight, a flight plan can be filed at the...",Flight Information Service (FIS).,,False,2
+"FPP-088 - In comparison to the true airspeed in still air conditions, the TAS in a strong tailwind will be…",slightly lower for maximum range,,False,2
+FPP-089 - What happens to the true airspeed at a constant indicated airspeed during a climb?,It increases,,False,2
+"FPP-090 - Given the following data: Take-Off fuel = 200 lbs Alternate fuel = 40 lbs Final reserve fuel = 30 lbs After 25 minutes the remaining fuel is 120 lbs. Assuming that fuel flow will remain unchanged, the remaining time to the destination should not exceed:",15.6 min,,False,2
+"FPP-091 - Given the following data for a VFR flight: Take-off fuel: 180 kg including reserve fuel, which is 30% of take off fuel. After half of the distance the remaining fuel is 100 kg. Assume that cruise conditions will remain unchanged. Determine the remaining fuel at the destination:",20 kg,,False,2
+"FPP-092 - During a VFR flight the remaining usable fuel at a checkpoint is 80 USG. Reserve fuel is 20 USG, remaining flight time according to flight plan is 2h 20min. What is the highest acceptable fuel flow (FF) for the rest of the trip?",FF = 25.7 USG/h,,False,2
+"FPP-093 - Planning a flight from EDWF (Leer Papenburg) to EDWH (Oldenburg Hatten), the following conditions apply: Cruise level = FL 75 Temperature = ISA Cruise weight = 3400 lbs Power setting = 23.0 in. HG @ 2300 RPM Determine True Airspeed (TAS) and Fuel Flow (FF):",TAS = 160 kt FF = 11.9 GPH,,False,2
+"FPP-094 - Planning a flight from EDWH (Oldenburg Hatten) to EDWF (Leer Papenburg), the following conditions apply: Cruise level = FL 65 Temperature = ISA+20 Cruise weight = 3400 lbs Power setting = 23.0 in. HG @ 2300 RPM What Indicated Airspeed (IAS) and Fuel Flow (FF) can be expected?",IAS = 142 kt FF = 11.5 GPH,,False,2
+"FPP-095 - For planning a VFR flight, the following data are given: Flight time with planning ""overhead-overhead"" = 2h 43min Pressure Altitude = 6.500 ft Temperature = ISA-20 Power setting = 2300 RPM Taxi Fuel = 2 USG Additional time for climb = 7 min, Additional time for approach and landing = 10 min The reserve fuel has to be 30% of trip fuel. Determine the minimum block fuel:",50.4 USG,,False,2
+"FPP-096 - For planning a VFR flight, the following data are given: Flight time with planning ""overhead-overhead"" = 2h 42min Pressure Altitude = 7.500 ft Temperature = ISA Power setting = 2300 RPM Taxi Fuel = 2 USG Additional time for climb = 8 min, Additional time for approach and landing = 10 min The reserve fuel has to be 30% of trip fuel. Determine the minimum block fuel:",48.4 USG,,False,2
+FPP-097 - Given the following data for a VFR flight: Trip fuel = 70 US gallons Contingency fuel = 5% of trip fuel Alternate and final reserve fuel = 20 US gallons Usable fuel at take-off = 95 US gallons After half of the distance you read that you have consumed 40 US gallons. Assume that fuel flow remains unchanged. Which statement is correct?,The remaining fuel is insufficient for a landing at destination with alternate and final reserve fuel remaining.,,False,2
+FPP-098 - Given the following data for a VFR flight: Trip fuel = 70 US gallons Contingency fuel = 5% of trip fuel. Alternate and final reserve fuel = 20 US gallons Usable fuel at take-off = 90 US gallons After half of the distance you read that you have consumed 30 US gallons. Assume that fuel flow remains unchanged. Which statement is correct?,Upon landing 10.0 US gallons will remain in addition to alternate and final reserve fuel.,,False,2
+"FPP-099 - According ICAO, what symbol indicates a group of unlighted obstacles?",C,,False,2
+"FPP-100 - According ICAO, what symbol indicates a civil airport (not international airport) with paved runway?",A,,False,2
+"FPP-101 - According ICAO, what symbol indicates a general spot elevation?",C,,False,2
+FPP-102 - How does the air temperature influence the performance of a piston engine?,"Higher temperature corresponds to lower air density,this leads to lower engine performance",,False,2
