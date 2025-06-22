@@ -1,198 +1,144 @@
 Question,Correct,Answered,CorrectFlag,Count
-NAV-016 - What is the difference in time when the sun moves 10° of longitude?,0:40 h.,0:40 h.,True,0
-NAV-102 - The term QDR means...,magnetic bearing from the station to the aircraft.,magnetic bearing from the station to the aircraft.,True,0
-NAV-082 - Assume calm wind and an aircraft descending from 9000 ft to 1500 ft. The rate of descent (ROD) equals 1200 ft/min. The elapsed time will be...,6 min.,6 min.,True,0
-"NAV-035 - The term 'isogonal' or 'isogonic line' is defined as a line on an aeronautical chart, connecting all points with the same value of...",variation.,inclination.,False,1
-NAV-056 - Given: True course from A to B: 352°. Ground distance: 100 NM. GS: 107 kt. Estimated time of departure (ETD): 0933 UTC. The estimated time of arrival (ETA) is...,1029 UTC.,1029 UTC.,True,0
-NAV-122 - The aircraft is on radial...,234°.,060°.,False,2
-NAV-120 - Full deflection of the course deviation indicator (CDI) means that the aircraft is located at least...,10° beside the selected course.,,False,2
-NAV-026 - The angle between the magnetic course and the true course is called...,variation.,variation.,True,0
-NAV-113 - The shoreline effect is greatest with radio wave propagation,at an acute angle to the coast; aircraft below 6000 ft.,,False,2
-"NAV-127 - Using primary ground radar, the direction of the aeroplane in relation to the antenna is determined by...",the orientation of the antenna.,the pulse pair interval.,False,2
-"NAV-065 - What is the distance from Neustadt (EDAN) (53°22'N, 011°37'E) to Uelzen (EDVU) (52°59'N, 10°28'E)?",46 NM,46 NM,True,0
-"NAV-031 - Given:
-TC: 183°; WCA: +011°; MH: 198°; CH: 200°
-What are the VAR and the DEV?","VAR: 004° W.
-DEV: -002°.",,False,1
-NAV-105 - A pilot receives a QDR of 315° from the VDF ground station. Where is the aircraft located in relation to the ground station?,Northwest,Northwest,True,0
-NAV-042 - Electronic devices on board of an aeroplane have influence on the...,direct reading compass.,direct reading compass.,True,0
-NAV-098 - Given: QTE: 203° VAR: 10° E The QDR equals...,193°.,193°.,True,0
-NAV-128 - Which instantaneous information can be obtained from ground radar equipment?,Distance and direction,Distance and direction,True,0
-"NAV-049 - Given the following information, what is the aircraft position at the cross bearing? VOR Hamburg (HAM) (53°41'N, 010°12'E): Radial 119° VOR Brünkendorf (BKD) (53°02'N, 011°33'E): Radial 320°","53°20'N, 11°10'E","53°20'N, 11°10'E",True,1
-NAV-004 - Which statement about a rhumb line is correct?,A rhumb line cuts each meridian at the same angle.,A rhumb line cuts each meridian at the same angle.,True,0
-NAV-019 - UTC is...,an obligatory time used in aviation.,an obligatory time used in aviation.,True,0
-NAV-073 - An aircraft is following a true course (TC) of 040° at a constant true airspeed (TAS) of 180 kt. The wind vector is 350°/30 kt. The wind correction angle (WCA) equals...,- 7°,- 7°,True,0
-NAV-001 - The rotational axis of the Earth runs through the...,geographic North Pole and on the geographic South Pole.,geographic North Pole and on the geographic South Pole.,True,1
-NAV-002 - Which statement is correct with regard to the polar axis of the Earth?,The polar axis of the Earth crosses the geographic South Pole and the geographic North Pole and is perpendicular to the plane of the equator.,The polar axis of the Earth crosses the geographic South Pole and the geographic North Pole and is perpendicular to the plane of the equator.,True,1
-"NAV-003 - Which approximate, geometrical form describes the shape of the Earth best for navigation systems?",Ellipsoid.,,False,1
-NAV-005 - The shortest distance between two points on Earth is represented by a part of...,a great circle.,a rhumb line.,False,2
-NAV-006 - The circumference of the Earth at the equator is approximately...,21600 NM.,21600 NM.,True,1
-NAV-007 - What is the difference in latitude between A (12°53'30''N) and B (07°34'30''S)?,20°28'00'',05°19'00'',False,2
-NAV-008 - Where are the two polar circles?,23.5° north and south of the poles.,23.5° north and south of the poles.,True,1
-NAV-009 - What is the distance between the parallels of latitude 48°N and 49°N along a meridian line?,60 NM.,,False,1
-NAV-010 - What distance corresponds to one degree difference in latitude along any degree of longitude?,60 NM.,60 NM.,True,1
-NAV-011 - Point A on the Earth's surface lies exactly on the parallel of latitude of 47°50'27''N. Which point is exactly 240 NM north of A?,51°50'27'N.,,False,1
-NAV-012 - What is the distance between the two parallels of longitude 150°E and 151°E along the equator?,60 NM.,,False,1
-NAV-013 - What is the great circle distance between two points A and B on the equator when the difference between the two associated meridians is exactly one degree of longitude?,60 NM.,60 NM.,True,1
-"NAV-014 - Assume two arbitrary points A and B on the same parallel of latitude, but not on the equator. Point A is located on 010°E and point B on 020°E. The rumb line distance between A and B is always...",less than 600 NM.,less than 600 NM.,True,1
-NAV-015 - What is the difference in time when the sun moves 20° of longitude?,1:20 h.,1:20 h.,True,1
-NAV-017 - The sun moves 10° of longitude. What is the difference in time?,0.66 h.,0.66 h.,True,1
-"NAV-018 - With Central European Summer Time (CEST) given as UTC+2, what UTC time corresponds to 1600 CEST?",1400 UTC.,1400 UTC.,True,1
-"NAV-020 - With Central European Time (CET) given as UTC+1, what UTC time corresponds to 1700 CET?",1600 UTC.,,False,1
-"NAV-021 - Vienna (LOWW) is located at 016° 34'E, Salzburg (LOWS) at 013° 00'E. The latitude of both positions can be considered as equal. What is the difference of sunrise and sunset times, expressed in UTC, between Wien and Salzburg?",In Vienna the sunrise and sunset are about 14 minutes earlier than in Salzburg.,In Vienna the sunrise and sunset are about 14 minutes earlier than in Salzburg.,True,1
-NAV-022 - The term 'civil twilight' is defined as...,the period of time before sunrise or after sunset where the midpoint of the sun disk is 6 degrees or less below the true horizon.,,False,1
-"NAV-023 - Given:
-WCA: -012°; TH: 125°; MC: 139°; DEV: 002°E
-What are: TC, MH und CH?","TC: 137°.
-MH: 127°.
-CH: 125°.",,False,1
-"NAV-024 - Given:
-TC: 179°; WCA: -12°; VAR: 004° E; DEV: +002°
-What are MH and MC?","MH: 163°.
-MC: 175°.",,False,1
-NAV-025 - The angle between the true course and the true heading is called...,WCA.,WCA.,True,1
-NAV-027 - The term ‚magnetic course' (MC) is defined as...,the angle between magnetic north and the course line.,,False,1
-NAV-028 - The term 'True Course' (TC) is defined as...,the angle between true north and the course line.,,False,1
-"NAV-029 - Given:
-TC: 183°; WCA: +011°; MH: 198°; CH: 200°
-What are TH and VAR?","TH: 194°.
-VAR: 004° W",,False,1
-"NAV-030 - Given:
-TC: 183°; WCA: +011°; MH: 198°; CH: 200°
-What are the TH and the DEV?","TH: 194°.
-DEV: -002°.",,False,1
-"NAV-031 - Given:
-TC: 183°; WCA: +011°; MH: 198°; CH: 200°
-What are the VAR and the DEV?","VAR: 004° W.
-DEV: -002°.",,False,1
-NAV-032 - Where does the inclination reach its lowest value?,At the magnetic equator.,,False,1
-NAV-033 - The angle between compass north and magnetic north is called...,deviation.,,False,1
-NAV-034 - Which direction corresponds to 'compass north' (CN)?,The direction to which the direct reading compass aligns due to earth's and aircraft's magnetic fields.,The angle between the aircraft heading and magnetic north.,False,3
-"NAV-036 - The term 'agonic line' is defined as a line on Earth or an aeronautical chart, connecting all points with the...",variation of 0°.,variation of 0°.,True,2
-NAV-037 - Which are the official basic units for horizontal distances used in aeronautical navigation and their abbreviations?,"Nautical miles (NM), kilometers (km)",,False,1
-NAV-038 - 1000 ft equal...,300 m.,300 m.,True,1
-NAV-039 - 5500 m equal...,18000 ft.,,False,1
-NAV-040 - Which of the items on the attached checklist are related to the direct reading compass?,Gyro and Turning Instruments.,,False,1
-NAV-041 - What could be a reason for changing the runway indicators at aerodromes (e.g. from runway 06 to runway 07)?,The magnetic variation of the runway location has changed.,The magnetic deviation of the runway location has changed.,False,2
-NAV-043 - Which are the properties of a Mercator chart?,"The scales increases with latitude, great circles are depicted as curved lines, rhumb lines are depicted as straight lines.","The scales increases with latitude, great circles are depicted as curved lines, rhumb lines are depicted as straight lines.",True,1
-NAV-044 - How are rhumb lines and great circles depicted on a direct Mercator chart?,Rhumb lines: straight lines Great circles: curved lines.,,False,1
-NAV-045 - Which are the properties of a Lambert conformal chart?,The chart is conformal and nearly true to scale.,,False,2
-NAV-046 - Which lines have to be used by the pilot to determine the aircraft's position?,True bearings (QTE),Magnetic bearings (QDR),False,3
-"NAV-047 - What is the radial from VOR Brünkendorf (BKD) (53°02'N, 011°33'E) to Pritzwalk (EDBU) (53°11'N, 12°11'E)?",068°,068°,True,1
-NAV-048 - The distance between two airports is 220 NM. On an aeronautical navigation chart the pilot measures 40.7 cm for this distance. The chart scale is...,1 : 1000000.,1 : 1000000.,True,1
-"NAV-050 - What is the distance from VOR Brünkendorf (BKD) (53°02'N, 011°33'E) to Pritzwalk (EDBU) (53°11'N, 12°11'E)?",24 NM,42 NM,False,2
-NAV-051 - A distance of 7.5 cm on an aeronautical chart represents a distance of 60.745 NM in reality. What is the chart scale?,1 : 1500000,1 : 1500000,True,1
-NAV-052 - For a short flight from A to B the pilot extracts the following information from an aeronautical chart: True course: 245°. Magnetic variation: 7° W The magnetic course (MC) equals...,252°.,252°.,True,1
-"NAV-053 - An aircraft is flying with an indicated airspeed (IAS) of 150 kt at 8000 ft MSL. According to the rule of thumb, the true airspeed (TAS) equals...",174 kt.,174 kt.,True,1
-NAV-054 - Given: True course from A to B: 250°. Ground distance: 210 NM. TAS: 130 kt. Headwind component: 15 kt. Estimated time of departure (ETD): 0915 UTC. The estimated time of arrival (ETA) is...,1105 UTC.,,False,1
-NAV-055 - Given: True course from A to B: 283°. Ground distance: 75 NM. TAS: 105 kt. Headwind component: 12 kt. Estimated time of departure (ETD): 1242 UTC. The estimated time of arrival (ETA) is...,1330 UTC,1330 UTC,True,1
-NAV-057 - An aircraft travels 100 km in 56 minutes. The ground speed (GS) equals...,107 km/h.,107 km/h.,True,1
-NAV-058 - An aircraft travels 110 NM within 01:25. The ground speed (GS) equals...,78 kt.,,False,1
-NAV-059 - What is the required flight time for a distance of 236 NM with a ground speed of 134 kt?,1:46 h,1:46 h,True,1
-NAV-060 - An aircraft is flying with a true airspeed (TAS) of 120 kt and experiences 35 kt tailwind. How much time is needed for a distance of 185 NM?,1 h 12 min,,False,1
-NAV-061 - An aircraft is flying with a true airspeed (TAS) of 180 kt and a headwind component of 25 kt for 2 hours and 25 minutes. The distance flown equals...,375 NM.,,False,1
-NAV-062 - Given: Calibrated airspeed (CAS): 155 kt. Flight level (FL) 80. Outside air temperature (OAT): +15° C. The true airspeed (TAS) equals...,180 kts.,180 kts.,True,1
-"NAV-063 - What is the true course (TC) from Uelzen (EDVU) (52°59'N, 10°28'E) to Neustadt (EDAN) (53°22'N, 011°37'E)?",061°,061°,True,1
-NAV-064 - An aircraft is flying at a FL 75 with an outside air temperature (OAT) of -9°C. The QNH altitude is 6500 ft. The true altitude equals...,6250 ft.,,False,2
-NAV-066 - An aircraft is flying at a pressure altitude of 7000 feet with an outside air temperature (OAT) of +11°C. The QNH altitude is 6500 ft. The true altitude equals...,6750 ft.,,False,1
-NAV-067 - An aircraft is flying at a pressure altitude of 7000 feet with an outside air temperature (OAT) of +21°C. The QNH altitude is 6500 ft. The true altitude equals...,7000 ft.,,False,2
-NAV-068 - Given: True course: 255°. TAS: 100 kt. Wind: 200°/10 kt. The true heading equals...,250°.,,False,1
-NAV-069 - Given: True course: 165°. TAS: 90 kt. Wind: 130°/20 kt. Distance: 153 NM. The true heading equals...,158°.,,False,1
-NAV-070 - Given: Ground speed (GS): 160 kt. True course (TC): 177°. Wind vector (W/WS): 140°/20 kt. The true heading (TH) equals...,173°.,173°.,True,1
-NAV-071 - An aircraft is following a true course (TC) of 220° at a constant TAS of 220 kt. The wind vector is 270°/50 kt. The ground speed (GS) equals...,185 kt.,185 kt.,True,1
-NAV-072 - An aircraft is following a true course (TC) of 040° at a constant true airspeed (TAS) of 180 kt. The wind vector is 350°/30 kt. The groundspeed (GS) equals...,159 kt.,159 kt.,True,1
-NAV-074 - Given: True course: 270°. TAS: 100 kt. Wind: 090°/25 kt. Distance: 100 NM. The ground speed (GS) equals...,125 kt.,,False,1
-NAV-075 - Given: True course: 270°. TAS: 100 kt. Wind: 090°/25 kt. Distance: 100 NM. The flight time equals...,48 Min.,48 Min.,True,1
-NAV-076 - An aircraft is following a true course (TC) of 040° at a constant true airspeed (TAS) of 180 kt. The wind vector is 350°/30 kt. The wind correction angle (WCA) equals...,7° left.,7° left.,True,1
-NAV-077 - Given: True course: 120°. TAS: 120 kt. Wind: 150°/12 kt. The WCA equals...,3° to the right.,3° to the right.,True,1
-NAV-078 - The distance from 'A' to 'B' measures 120 NM. At a distance of 55 NM from 'A' the pilot realizes a deviation of 7 NM to the right. What approximate course change must be made to reach 'B' directly?,14° left,14° left,True,1
-NAV-079 - An aeroplane has a heading of 090°. The distance which has to be flown is 90 NM. After 45 NM the aeroplane is 4.5 NM north of the planned flight path. What is the corrected heading to reach the arrival aerodrome directly?,12° to the right,,False,1
-NAV-080 - What is the meaning of the 1:60 rule?,1 NM lateral offset at 1° drift after 60 NM,60 NM lateral offset at 1° drift after 1 NM,False,2
-"NAV-081 - An aircraft is flying from 'A' to 'B' (distance 220 NM) at an average ground speed (GS) of 120 kt. It departs 'A' at 1200 UTC. After 70 NM along the course from 'A', the aircraft is 5 min ahead of the planned schedule. Using the actual GS, what is the revised estimated time of arrival (ETA) at B?",1335 UTC,,False,1
-NAV-083 - Assume zero wind and an aircraft descending from 7500 ft to 1200 ft with an average true airspeed (TAS) during the descent of 105 kt. The rate of descent (ROD) equals 800 ft/min. The elapsed time will be...,8 Min.,,False,1
-NAV-084 - Which answer completes the flight plan (marked cells)?,TH: 185°. MH: 184°. MC: 178°.,TH: 185°. MH: 184°. MC: 178°.,True,1
-NAV-085 - What radio navigation aid can be received with the attached aerial?,NDB,,False,1
-NAV-086 - The approximate propagation speed of electromagnetic waves is...,300000 km/s.,300000 km/s.,True,1
-NAV-087 - Radio waves within the LF and MF range (e.g. NDB) travel as...,sky wave and as ground / surface wave.,ground / surface wave.,False,2
-NAV-088 - Radio waves within the VHF range (e.g. VOR) travel as...,space wave (quasi-optical).,sky wave and ground / surface wave.,False,2
-NAV-089 - Quasi-optical waves travel...,through the air directly from the transmitter to the receiver.,through the air directly from the transmitter to the receiver.,True,1
-NAV-090 - A VHF direction finder (VDF) can determine...,magnetic bearings.,magnetic bearings.,True,1
-NAV-091 - Which equipment is needed on board of an aircraft to use a VHF direction finder (VDF)?,A VHF radio,A VDF receiver,False,2
-NAV-092 - Given: QDM: 138° VAR: 10° E The QUJ equals...,148°.,148°.,True,1
-NAV-093 - Given: QTE: 229° VAR: 10° W The QDM equals...,059°.,,False,1
-NAV-094 - Given: QDR: 022° VAR: 10° E The QTE equals...,032°.,032°.,True,1
-NAV-095 - Given: QDM: 248° VAR: 10° W The QTE is...,058°.,058°.,True,1
-NAV-096 - Given: QDR: 067° VAR: 5° E The QDM equals...,247°.,,False,1
-NAV-097 - Given: QDR: 152° VAR: 5° W DEV: 5° E The QUJ equals...,327°.,,False,1
-NAV-099 - Given: QTE: 248° VAR: 10° W The QDR equals...,258°.,258°.,True,1
-NAV-100 - Given: QDM: 134° VAR: 5° W The QTE equals...,309°.,309°.,True,1
-NAV-101 - The pilot receives a QDR of 225° from the VDF ground station. Where is the aircraft located in relation to the ground station?,Southwest,,False,1
-NAV-103 - The term QTE means...,true bearing from the station to the aircraft.,,False,1
-NAV-104 - A pilot receives a QDR of 135° from the VDF ground station. Where is the aircraft located in relation to the ground station?,Southeast,,False,1
-NAV-106 - The VDF range depends on...,the aircraft's altitude.,the aircraft's altitude.,True,1
-NAV-107 - Which equipment is needed on board of an aircraft to receive signals from a non-directional beacon (NDB)?,Automatic direction finder (ADF),Secondary surveillance radar (SSR),False,2
-NAV-108 - Non-directional beacons (NDBs) transmit within which frequency band?,Low frequency (LF) and medium frequency (MF),,False,1
+NAV-001 - The rotational axis of the Earth runs through the...,geographic North Pole and on the geographic South Pole.,,False,0
+NAV-002 - Which statement is correct with regard to the polar axis of the Earth?,The polar axis of the Earth crosses the geographic South Pole and the geographic North Pole and is perpendicular to the plane of the equator.,,False,0
+"NAV-003 - Which approximate, geometrical form describes the shape of the Earth best for navigation systems?",Ellipsoid.,,False,0
+NAV-004 - Which statement about a rhumb line is correct?,A rhumb line cuts each meridian at the same angle.,,False,0
+NAV-005 - The shortest distance between two points on Earth is represented by a part of...,a great circle.,,False,0
+NAV-006 - The circumference of the Earth at the equator is approximately...,21600 NM.,,False,0
+NAV-007 - What is the difference in latitude between A (12°53'30''N) and B (07°34'30''S)?,20°28'00'',,False,0
+NAV-008 - Where are the two polar circles?,23.5° north and south of the poles.,,False,0
+NAV-009 - What is the distance between the parallels of latitude 48°N and 49°N along a meridian line?,60 NM.,,False,0
+NAV-010 - What distance corresponds to one degree difference in latitude along any degree of longitude?,60 NM.,,False,0
+NAV-011 - Point A on the Earth's surface lies exactly on the parallel of latitude of 47°50'27''N. Which point is exactly 240 NM north of A?,51°50'27'N.,,False,0
+NAV-012 - What is the distance between the two parallels of longitude 150°E and 151°E along the equator?,60 NM.,,False,0
+NAV-013 - What is the great circle distance between two points A and B on the equator when the difference between the two associated meridians is exactly one degree of longitude?,60 NM.,,False,0
+"NAV-014 - Assume two arbitrary points A and B on the same parallel of latitude, but not on the equator. Point A is located on 010°E and point B on 020°E. The rumb line distance between A and B is always...",less than 600 NM.,,False,0
+NAV-015 - What is the difference in time when the sun moves 20° of longitude?,1:20 h.,,False,0
+NAV-016 - What is the difference in time when the sun moves 10° of longitude?,0:40 h.,,False,0
+NAV-017 - The sun moves 10° of longitude. What is the difference in time?,0.66 h.,,False,0
+"NAV-018 - With Central European Summer Time (CEST) given as UTC+2, what UTC time corresponds to 1600 CEST?",1400 UTC.,,False,0
+NAV-019 - UTC is...,an obligatory time used in aviation.,,False,0
+"NAV-020 - With Central European Time (CET) given as UTC+1, what UTC time corresponds to 1700 CET?",1600 UTC.,,False,0
+"NAV-021 - Vienna (LOWW) is located at 016° 34'E, Salzburg (LOWS) at 013° 00'E. The latitude of both positions can be considered as equal. What is the difference of sunrise and sunset times, expressed in UTC, between Wien and Salzburg?",In Vienna the sunrise and sunset are about 14 minutes earlier than in Salzburg.,,False,0
+NAV-022 - The term 'civil twilight' is defined as...,the period of time before sunrise or after sunset where the midpoint of the sun disk is 6 degrees or less below the true horizon.,,False,0
+"NAV-023 - Given: WCA: -012°; TH: 125°; MC: 139°; DEV: 002°E What are: TC, MH und CH?",TC: 137°. MH: 127°. CH: 125°.,,False,0
+NAV-024 - Given: TC: 179°; WCA: -12°; VAR: 004° E; DEV: +002° What are MH and MC?,MH: 163°. MC: 175°.,,False,0
+NAV-025 - The angle between the true course and the true heading is called...,WCA.,,False,0
+NAV-026 - The angle between the magnetic course and the true course is called...,variation.,,False,0
+NAV-027 - The term ‚magnetic course' (MC) is defined as...,the angle between magnetic north and the course line.,,False,0
+NAV-028 - The term 'True Course' (TC) is defined as...,the angle between true north and the course line.,,False,0
+NAV-029 - Given: TC: 183°; WCA: +011°; MH: 198°; CH: 200° What are TH and perspective: 194°. VAR: 004° W,TH: 194°. VAR: 004° W,,False,0
+NAV-030 - Given: TC: 183°; WCA: +011°; MH: 198°; CH: 200° What are the TH and the DEV?,TH: 194°. DEV: -002°.,,False,0
+NAV-031 - Given: TC: 183°; WCA: +011°; MH: 198°; CH: 200° What are the VAR and the DEV?,VAR: 004° W. DEV: -002°.,,False,0
+NAV-032 - Where does the inclination reach its lowest value?,At the magnetic equator.,,False,0
+NAV-033 - The angle between compass north and magnetic north is called...,deviation.,,False,0
+NAV-034 - Which direction corresponds to 'compass north' (CN)?,The direction to which the direct reading compass aligns due to earth's and aircraft's magnetic fields.,,False,0
+"NAV-035 - The term 'isogonal' or 'isogonic line' is defined as a line on an aeronautical chart, connecting all points with the same value of...",variation.,,False,0
+"NAV-036 - The term 'agonic line' is defined as a line on Earth or an aeronautical chart, connecting all points with the...",variation of 0°.,,False,0
+NAV-037 - Which are the official basic units for horizontal distances used in aeronautical navigation and their abbreviations?,"Nautical miles (NM), kilometers (km)",,False,0
+NAV-038 - 1000 ft equal...,300 m.,,False,0
+NAV-039 - 5500 m equal...,18000 ft.,,False,0
+NAV-040 - Which of the items on the attached checklist are related to the direct reading compass?,Gyro and Turning Instruments.,,False,0
+NAV-041 - What could be a reason for changing the runway indicators at aerodromes (e.g. from runway 06 to runway 07)?,The magnetic variation of the runway location has changed.,,False,0
+NAV-042 - Electronic devices on board of an aeroplane have influence on the...,direct reading compass.,,False,0
+NAV-043 - Which are the properties of a Mercator chart?,"The scales increases with latitude, great circles are depicted as curved lines, rhumb lines are depicted as straight lines.",,False,0
+NAV-044 - How are rhumb lines and great circles depicted on a direct Mercator chart?,Rhumb lines: straight lines Great circles: curved lines.,,False,0
+NAV-045 - Which are the properties of a Lambert conformal chart?,The chart is conformal and nearly true to scale.,,False,0
+NAV-046 - Which lines have to be used by the pilot to determine the aircraft's position?,True bearings (QTE),,False,0
+"NAV-047 - What is the radial from VOR Brünkendorf (BKD) (53°02'N, 011°33'E) to Pritzwalk (EDBU) (53°11'N, 12°11'E)?",068°,,False,0
+NAV-048 - The distance between two airports is 220 NM. On an aeronautical navigation chart the pilot measures 40.7 cm for this distance. The chart scale is...,1 : 1000000.,,False,0
+"NAV-049 - Given the following information, what is the aircraft position at the cross bearing? VOR Hamburg (HAM) (53°41'N, 010°12'E): Radial 119° VOR Brünkendorf (BKD) (53°02'N, 011°33'E): Radial 320°","53°20'N, 11°10'E",,False,0
+"NAV-050 - What is the distance from VOR Brünkendorf (BKD) (53°02'N, 011°33'E) to Pritzwalk (EDBU) (53°11'N, 12°11'E)?",24 NM,,False,0
+NAV-051 - A distance of 7.5 cm on an aeronautical chart represents a distance of 60.745 NM in reality. What is the chart scale?,1 : 1500000,,False,0
+NAV-052 - For a short flight from A to B the pilot extracts the following information from an aeronautical chart: True course: 245°. Magnetic variation: 7° W The magnetic course (MC) equals...,252°.,,False,0
+"NAV-053 - An aircraft is flying with an indicated airspeed (IAS) of 150 kt at 8000 ft MSL. According to the rule of thumb, the true airspeed (TAS) equals...",174 kt.,,False,0
+NAV-054 - Given: True course from A to B: 250°. Ground distance: 210 NM. TAS: 130 kt. Headwind component: 15 kt. Estimated time of departure (ETD): 0915 UTC. The estimated time of arrival (ETA) is...,1105 UTC.,,False,0
+NAV-055 - Given: True course from A to B: 283°. Ground distance: 75 NM. TAS: 105 kt. Headwind component: 12 kt. Estimated time of departure (ETD): 1242 UTC. The estimated time of arrival (ETA) is...,1330 UTC,,False,0
+NAV-056 - Given: True course from A to B: 352°. Ground distance: 100 NM. GS: 107 kt. Estimated time of departure (ETD): 0933 UTC. The estimated time of arrival (ETA) is...,1029 UTC.,,False,0
+NAV-057 - An aircraft travels 100 km in 56 minutes. The ground speed (GS) equals...,107 km/h.,,False,0
+NAV-058 - An aircraft travels 110 NM within 01:25. The ground speed (GS) equals...,78 kt.,,False,0
+NAV-059 - What is the required flight time for a distance of 236 NM with a ground speed of 134 kt?,1:46 h,,False,0
+NAV-060 - An aircraft is flying with a true airspeed (TAS) of 120 kt and experiences 35 kt tailwind. How much time is needed for a distance of 185 NM?,1 h 12 min,,False,0
+NAV-061 - An aircraft is flying with a true airspeed (TAS) of 180 kt and a headwind component of 25 kt for 2 hours and 25 minutes. The distance flown equals...,375 NM.,,False,0
+NAV-062 - Given: Calibrated airspeed (CAS): 155 kt. Flight level (FL) 80. Outside air temperature (OAT): +15° C. The true airspeed (TAS) equals...,180 kts.,,False,0
+"NAV-063 - What is the true course (TC) from Uelzen (EDVU) (52°59'N, 10°28'E) to Neustadt (EDAN) (53°22'N, 011°37'E)?",061°,,False,0
+NAV-064 - An aircraft is flying at a FL 75 with an outside air temperature (OAT) of -9°C. The QNH altitude is 6500 ft. The true altitude equals...,6250 ft.,,False,0
+"NAV-065 - What is the distance from Neustadt (EDAN) (53°22'N, 011°37'E) to Uelzen (EDVU) (52°59'N, 10°28'E)?",46 NM,,False,0
+NAV-066 - An aircraft is flying at a pressure altitude of 7000 feet with an outside air temperature (OAT) of +11°C. The QNH altitude is 6500 ft. The true altitude equals...,6750 ft.,,False,0
+NAV-067 - An aircraft is flying at a pressure altitude of 7000 feet with an outside air temperature (OAT) of +21°C. The QNH altitude is 6500 ft. The true altitude equals...,7000 ft.,,False,0
+NAV-068 - Given: True course: 255°. TAS: 100 kt. Wind: 200°/10 kt. The true heading equals...,250°.,,False,0
+NAV-069 - Given: True course: 165°. TAS: 90 kt. Wind: 130°/20 kt. Distance: 153 NM. The true heading equals...,158°.,,False,0
+NAV-070 - Given: Ground speed (GS): 160 kt. True course (TC): 177°. Wind vector (W/WS): 140°/20 kt. The true heading (TH) equals...,173°.,,False,0
+NAV-071 - An aircraft is following a true course (TC) of 220° at a constant TAS of 220 kt. The wind vector is 270°/50 kt. The ground speed (GS) equals...,185 kt.,,False,0
+NAV-072 - An aircraft is following a true course (TC) of 040° at a constant true airspeed (TAS) of 180 kt. The wind vector is 350°/30 kt. The groundspeed (GS) equals...,159 kt.,,False,0
+NAV-073 - An aircraft is following a true course (TC) of 040° at a constant true airspeed (TAS) of 180 kt. The wind vector is 350°/30 kt. The wind correction angle (WCA) equals...,- 7°,,False,0
+NAV-074 - Given: True course: 270°. TAS: 100 kt. Wind: 090°/25 kt. Distance: 100 NM. The ground speed (GS) equals...,125 kt.,,False,0
+NAV-075 - Given: True course: 270°. TAS: 100 kt. Wind: 090°/25 kt. Distance: 100 NM. The flight time equals...,48 Min.,,False,0
+NAV-076 - An aircraft is following a true course (TC) of 040° at a constant true airspeed (TAS) of 180 kt. The wind vector is 350°/30 kt. The wind correction angle (WCA) equals...,7° left.,,False,0
+NAV-077 - Given: True course: 120°. TAS: 120 kt. Wind: 150°/12 kt. The WCA equals...,3° to the right.,,False,0
+NAV-078 - The distance from 'A' to 'B' measures 120 NM. At a distance of 55 NM from 'A' the pilot realizes a deviation of 7 NM to the right. What approximate course change must be made to reach 'B' directly?,14° left,,False,0
+NAV-079 - An aeroplane has a heading of 090°. The distance which has to be flown is 90 NM. After 45 NM the aeroplane is 4.5 NM north of the planned flight path. What is the corrected heading to reach the arrival aerodrome directly?,12° to the right,,False,0
+NAV-080 - What is the meaning of the 1:60 rule?,1 NM lateral offset at 1° drift after 60 NM,,False,0
+"NAV-081 - An aircraft is flying from 'A' to 'B' (distance 220 NM) at an average ground speed (GS) of 120 kt. It departs 'A' at 1200 UTC. After 70 NM along the course from 'A', the aircraft is 5 min ahead of the planned schedule. Using the actual GS, what is the revised estimated time of arrival (ETA) at B?",1335 UTC,,False,0
+NAV-082 - Assume calm wind and an aircraft descending from 9000 ft to 1500 ft. The rate of descent (ROD) equals 1200 ft/min. The elapsed time will be...,6 min.,,False,0
+NAV-083 - Assume zero wind and an aircraft descending from 7500 ft to 1200 ft with an average true airspeed (TAS) during the descent of 105 kt. The rate of descent (ROD) equals 800 ft/min. The elapsed time will be...,8 Min.,,False,0
+NAV-084 - Which answer completes the flight plan (marked cells)?,TH: 185°. MH: 184°. MC: 178°.,,False,0
+NAV-085 - What radio navigation aid can be received with the attached aerial?,NDB,,False,0
+NAV-086 - The approximate propagation speed of electromagnetic waves is...,300000 km/s.,,False,0
+NAV-087 - Radio waves within the LF and MF range (e.g. NDB) travel as...,sky wave and as ground / surface wave.,,False,0
+NAV-088 - Radio waves within the VHF range (e.g. VOR) travel as...,space wave (quasi-optical).,,False,0
+NAV-089 - Quasi-optical waves travel...,through the air directly from the transmitter to the receiver.,,False,0
+NAV-090 - A VHF direction finder (VDF) can determine...,magnetic bearings.,,False,0
+NAV-091 - Which equipment is needed on board of an aircraft to use a VHF direction finder (VDF)?,A VHF radio,,False,0
+NAV-092 - Given: QDM: 138° VAR: 10° E The QUJ equals...,148°.,,False,0
+NAV-093 - Given: QTE: 229° VAR: 10° W The QDM equals...,059°.,,False,0
+NAV-094 - Given: QDR: 022° VAR: 10° E The QTE equals...,032°.,,False,0
+NAV-095 - Given: QDM: 248° VAR: 10° W The QTE is...,058°.,,False,0
+NAV-096 - Given: QDR: 067° VAR: 5° E The QDM equals...,247°.,,False,0
+NAV-097 - Given: QDR: 152° VAR: 5° W DEV: 5° E The QUJ equals...,327°.,,False,0
+NAV-098 - Given: QTE: 203° VAR: 10° E The QDR equals...,193°.,,False,0
+NAV-099 - Given: QTE: 248° VAR: 10° W The QDR equals...,258°.,,False,0
+NAV-100 - Given: QDM: 134° VAR: 5° W The QTE equals...,309°.,,False,0
+NAV-101 - The pilot receives a QDR of 225° from the VDF ground station. Where is the aircraft located in relation to the ground station?,Southwest,,False,0
+NAV-102 - The term QDR means...,magnetic bearing from the station to the aircraft.,,False,0
+NAV-103 - The term QTE means...,true bearing from the station to the aircraft.,,False,0
+NAV-104 - A pilot receives a QDR of 135° from the VDF ground station. Where is the aircraft located in relation to the ground station?,Southeast,,False,0
+NAV-105 - A pilot receives a QDR of 315° from the VDF ground station. Where is the aircraft located in relation to the ground station?,Northwest,,False,0
+NAV-106 - The VDF range depends on...,the aircraft's altitude.,,False,0
+NAV-107 - Which equipment is needed on board of an aircraft to receive signals from a non-directional beacon (NDB)?,Automatic direction finder (ADF),,False,0
+NAV-108 - Non-directional beacons (NDBs) transmit within which frequency band?,Low frequency (LF) and medium frequency (MF),,False,0
 "NAV-109 - A pilot wants to approach an NDB on QDM 090°. The aircraft flies for about 5 minutes
 with a magnetic heading (MH) of 095° and the RBI indication of 355°. After 6 minutes
 the RBI indicates 358°.
-Which statement is correct? ",The crosswind component increased; the pilot has to increase the MH,,False,1
-NAV-110 - The pilot wants to proceed directly to the beacon. The wind is calm. The pilot should follow a QDM of...,260°.,230°.,False,2
-NAV-111 - What is the difference between a locator beacon and a non-directional beacon (NDB)?,Locator beacons have a lower range than NDBs,Locator beacons have a lower range than NDBs,True,2
-NAV-112 - The range of NDBs transmitting in the medium frequency range is greatest...,at night.,at night.,True,2
-NAV-114 - Fading in LF/MF frequency range occurs mainly...,during the night.,,False,2
-NAV-115 - The progress of an electromagnetic oscillation can be described by the...,phase angle.,,False,1
-NAV-116 - When transmitter and receiver are moving towards each other...,the perceived frequency increases.,,False,1
-NAV-117 - When transmitter and receiver are moving away from each other...,the perceived frequency decreases.,,False,2
-NAV-118 - VOR radials are defined based on the principle of...,phase comparison of two signals.,phase comparison of two signals.,True,1
-NAV-119 - A VOR radial corresponds to the...,QDR.,,False,1
-NAV-121 - Where is the aircraft located in relation to the VOR?,Northeast,Northeast,True,1
-NAV-123 - The range of a VOR is affected by...,transmitter and receiver altitude.,reflected sky waves.,False,3
-NAV-124 - The distance measuring equipment (DME) determines the distance based on the principle of...,time measurement.,,False,1
-NAV-125 - The DME reading is a...,slant range.,radial distance.,False,2
-NAV-126 - The differenz between indicated DME slant range and horizontal distance from the DME station increases...,when approaching the DME station.,when approaching the DME station.,True,1
-NAV-129 - The on-board equipment of the secondary surveillance radar (SSR) is called...,transponder.,,False,1
-NAV-130 - What is the difference between primary and secondary radar?,"The pulses of a primary radar are reflected by the aircraft's surface, the pulses of a secondary radar system are answered by a transponder",,False,1
-NAV-131 - The transponder code in case of hi-jacking is...,7500.,,False,1
-NAV-132 - The transponder code in case of a radio communication failure is...,7600.,7600.,True,1
-NAV-133 - Which altitude is transmitted by the transponder in mode C?,Pressure altitude,Pressure altitude,True,1
-NAV-134 - How many satellites are necessary for a precise and verified three-dimensional determination of the position?,Four,,False,1
+Which statement is correct? ",The crosswind component increased; the pilot has to increase the MH,,False,0
+NAV-110 - The pilot wants to proceed directly to the beacon. The wind is calm. The pilot should follow a QDM of...,260°.,,False,0
+NAV-111 - What is the difference between a locator beacon and a non-directional beacon (NDB)?,Locator beacons have a lower range than NDBs,,False,0
+NAV-112 - The range of NDBs transmitting in the medium frequency range is greatest...,at night.,,False,0
+NAV-113 - The shoreline effect is greatest with radio wave propagation,"at an acute angle to the coast, aircraft below 6000 ft.",,False,0
+NAV-114 - Fading in LF/MF frequency range occurs mainly...,during the night.,,False,0
+NAV-115 - The progress of an electromagnetic oscillation can be described by the...,phase angle.,,False,0
+NAV-116 - When transmitter and receiver are moving towards each other...,the perceived frequency increases.,,False,0
+NAV-117 - When transmitter and receiver are moving away from each other...,the perceived frequency decreases.,,False,0
+NAV-118 - VOR radials are defined based on the principle of...,phase comparison of two signals.,,False,0
+NAV-119 - A VOR radial corresponds to the...,QDR.,,False,0
+NAV-120 - Full deflection of the course deviation indicator (CDI) means that the aircraft is located at least...,10° beside the selected course.,,False,0
+NAV-121 - Where is the aircraft located in relation to the VOR?,Northeast,,False,0
+NAV-122 - The aircraft is on radial...,234°.,,False,0
+NAV-123 - The range of a VOR is affected by...,transmitter and receiver altitude.,,False,0
+NAV-124 - The distance measuring equipment (DME) determines the distance based on the principle of...,time measurement.,,False,0
+NAV-125 - The DME reading is a...,slant range.,,False,0
+NAV-126 - The differenz between indicated DME slant range and horizontal distance from the DME station increases...,when approaching the DME station.,,False,0
+"NAV-127 - Using primary ground radar, the direction of the aeroplane in relation to the antenna is determined by...",the orientation of the antenna.,,False,0
+NAV-128 - Which instantaneous information can be obtained from ground radar equipment?,Distance and direction,,False,0
+NAV-129 - The on-board equipment of the secondary surveillance radar (SSR) is called...,transponder.,,False,0
+NAV-130 - What is the difference between primary and secondary radar?,"The pulses of a primary radar are reflected by the aircraft's surface, the pulses of a secondary radar system are answered by a transponder",,False,0
+NAV-131 - The transponder code in case of hi-jacking is...,7500.,,False,0
+NAV-132 - The transponder code in case of a radio communication failure is...,7600.,,False,0
+NAV-133 - Which altitude is transmitted by the transponder in mode C?,Pressure altitude,,False,0
+NAV-134 - How many satellites are necessary for a precise and verified three-dimensional determination of the position?,Four,,False,0
 "NAV-135 - When using a GPS for tracking to the next waypoint, a deviation indication is shown
 by a vertical bar and dots to the left and to the right of the bar.
 What statement describes the correct interpretation of the display? ","The deviation of the bar from the center indicates the track error as absolute distance in NM; the
-scale for full deflection depends on the operating mode of the GPS.",,False,1
-"NAV-136 - What is meant by the term ""terrestrial navigation""?",Orientation by ground features during visual flight,Orientation by ground features during visual flight,True,1
-NAV-137 - What ground features should preferrably be used for orientation during visual flight?,"Rivers, railroads, highways",,False,1
-"NAV-023 - Given:
-WCA: -012°; TH: 125°; MC: 139°; DEV: 002°E
-What are: TC, MH und CH?","TC: 137°.
-MH: 127°.
-CH: 125°.","TC: 137°.
-MH: 127°.
-CH: 125°.",True,0
-"NAV-029 - Given:
-TC: 183°; WCA: +011°; MH: 198°; CH: 200°
-What are TH and VAR?","TH: 194°.
-VAR: 004° W","TH: 194°.
-VAR: 004° W",True,0
-"NAV-135 - When using a GPS for tracking to the next waypoint, a deviation indication is shown
-by a vertical bar and dots to the left and to the right of the bar.
-What statement describes the correct interpretation of the display? ","The deviation of the bar from the center indicates the track error as absolute distance in NM; the
-scale for full deflection depends on the operating mode of the GPS.",,False,1
-"NAV-031 - Given:
-TC: 183°; WCA: +011°; MH: 198°; CH: 200°
-What are the VAR and the DEV?","VAR: 004° W.
-DEV: -002°.",,False,1
-"NAV-031 - Given:
-TC: 183°; WCA: +011°; MH: 198°; CH: 200°
-What are the VAR and the DEV?","VAR: 004° W.
-DEV: -002°.","VAR: 004° W.
-DEV: -002°.",True,0
-"NAV-109 - A pilot wants to approach an NDB on QDM 090°. The aircraft flies for about 5 minutes
-with a magnetic heading (MH) of 095° and the RBI indication of 355°. After 6 minutes
-the RBI indicates 358°.
-Which statement is correct? ",The crosswind component increased; the pilot has to increase the MH,,False,1
-"NAV-029 - Given:
-TC: 183°; WCA: +011°; MH: 198°; CH: 200°
-What are TH and VAR?","TH: 194°.
-VAR: 004° W","TH: 194°.
-VAR: 004° W",True,0
+scale for full deflection depends on the operating mode of the GPS.",,False,0
+NAV-136 - What is meant by the term 'terrestrial navigation'?,Orientation by ground features during visual flight,,False,0
+NAV-137 - What ground features should preferrably be used for orientation during visual flight?,"Rivers, railroads, highways",,False,0
